@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="2500" height="2200" viewBox="17.5 -57.5 2500 2200" enable-background="new 17.5 -57.5 2500 2200" xml:space="preserve">
+<g id="BG">
+	<rect x="17.5" y="-57.5" fill="#FFFFFF" width="2500" height="2200"/>
+</g>
+<g id="Lines">
+	<g id="NAE">
+		<path id="新机场线_2_" fill="none" stroke="#7E77AD" stroke-width="3" stroke-dasharray="24,6" d="M1184.185,2113.042
+			v-196.563c0-96.904-46.133-188.02-124.237-245.378l-196.255-144.126"/>
+		<circle id="新机场" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1184.185" cy="2097.5" r="5.625"/>
+		<circle id="团河" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1184.185" cy="1934.679" r="5.625"/>
+	</g>
+	<g id="AE_x5F_E">
+		
+			<line fill="none" stroke="#A292B3" stroke-width="3" stroke-dasharray="24,6" x1="1551.33" y1="984.334" x2="1432.073" y2="984.222"/>
+	</g>
+	<g id="APM">
+		<g id="CBD线">
+			<g>
+				<path fill="none" stroke="#66CCFF" stroke-width="3" d="M1664.21,1131.032c0,0,4.392,1.45,11.394,3.762"/>
+				<path fill="none" stroke="#66CCFF" stroke-width="3" stroke-dasharray="24.8587,6.2147" d="M1681.501,1136.741
+					c27.304,9.015,78.299,25.851,87.88,29.015c13.212,4.362,19.669,15.041,19.669,29.643s0,121.852,0,121.852
+					c0,17.5,6.5,26.137,21.5,26.068c8.324-0.038,33.15-0.034,53.598-0.022c16.562,0.009,29.979,13.438,29.979,30v8.534"/>
+				<line fill="none" stroke="#66CCFF" stroke-width="3" x1="1894.127" y1="1384.943" x2="1894.127" y2="1396.943"/>
+			</g>
+		</g>
+		<g id="CBD线放大">
+			<g>
+				<path fill="none" stroke="#66CCFF" stroke-width="3" d="M2253.475,1789.77c0,0,4.106,2.047,10.738,5.353"/>
+				<path fill="none" stroke="#66CCFF" stroke-width="3" stroke-dasharray="23.8793,5.9698" d="M2269.554,1797.786
+					c28.642,14.278,86.212,42.977,93.777,46.748c10.126,5.048,15.082,15.489,15.074,28.228s-0.091,113.227-0.091,113.227
+					c0,17.5,6.5,26.137,21.5,26.068c9.911-0.045,53.132-0.031,81.318-0.016c13.802,0.007,24.981,11.198,24.981,25v3.653"/>
+				<line fill="none" stroke="#66CCFF" stroke-width="3" x1="2506.115" y1="2043.681" x2="2506.115" y2="2055.681"/>
+			</g>
+		</g>
+		
+			<line id="_x31_7号线放大" fill="none" stroke="#AE52FF" stroke-width="3" stroke-dasharray="24,6" x1="2253.475" y1="1748" x2="2253.475" y2="1837.665"/>
+		
+			<line id="_x37_号线放大" fill="none" stroke="#FFC66E" stroke-width="7" x1="2340.333" y1="2055.681" x2="2515.5" y2="2055.681"/>
+		<line id="_x36_号线放大" fill="none" stroke="#B78500" stroke-width="7" x1="2216" y1="1789.771" x2="2354" y2="1789.387"/>
+		<circle id="东大桥-CBD" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2253.475" cy="1789.77" r="5.625"/>
+		<circle id="万通中心" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2315.656" cy="1819.343" r="5.625"/>
+		<circle id="京广桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2358.246" cy="1843.29" r="5.625"/>
+		<circle id="光华路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2378.418" cy="1888.009" r="5.625"/>
+		<circle id="核心区" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2378.418" cy="1929.982" r="5.625"/>
+		<circle id="北京电视中心" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2378.418" cy="1971.955" r="5.625"/>
+		<circle id="大郊亭中路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2457.148" cy="2012.057" r="5.625"/>
+		<circle id="大郊亭_-CBD" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2506.115" cy="2055.689" r="5.625"/>
+		
+			<text id="M22_1_" transform="matrix(1 0 0 1 2234.0906 2090.9431)" fill="#66CCFF" font-family="Verdana" font-weight="bold" font-size="30px">28</text>
+		<g id="框">
+			<path d="M2515.315,1750.185v390.129h-299.129v-390.129H2515.315 M2517.5,1748H2214v394.5h303.5V1748L2517.5,1748z"/>
+		</g>
+	</g>
+	<g id="XJ">
+		<polyline id="西郊线_1_" fill="none" stroke="#E1261C" stroke-width="7" points="624.719,717.125 551.5,717.19 
+			528.331,673.463 478.398,655.972 429.673,669.938 374.175,618.816 286.319,619.954 		"/>
+		<circle id="颐和园西门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="491.027" cy="660.62" r="5.625"/>
+		<circle id="玉泉郊野公园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="439.836" cy="667.507" r="5.625"/>
+		<circle id="万安公墓" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="403.175" cy="646.43" r="5.625"/>
+		<circle id="植物园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="361.438" cy="619.764" r="5.625"/>
+		<circle id="香山" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="302.438" cy="619.764" r="5.625"/>
+	</g>
+	<g id="M26E">
+		<g id="M26线未">
+			
+				<line fill="none" stroke="#A65A2A" stroke-width="3" stroke-dasharray="24,6" x1="333.182" y1="1176.357" x2="265.462" y2="1176.357"/>
+		</g>
+	</g>
+	<g id="YF_x5F_E">
+		<path id="燕房线支" fill="none" stroke="#DC6016" stroke-width="3" stroke-dasharray="24,6" d="M106.766,1960.747
+			c-18.509-0.118-21.548,6.996-33.516,28.313S28.5,2070.5,28.5,2070.5"/>
+		<circle id="老城区" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="68.633" cy="1997.069" r="5.625"/>
+		<circle id="顾册" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="52.087" cy="2027.177" r="5.625"/>
+		<circle id="周口店镇" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="35.541" cy="2057.284" r="5.625"/>
+	</g>
+	<g id="M25E">
+		<path id="房山线未北_1_" fill="none" stroke="#DC6016" stroke-width="3" stroke-dasharray="24,6" d="M626.965,1800.577
+			c-0.08-14.218,8.518-21.041,23.852-21.041H799.69c28.126,0,38.485-16.285,38.485-43.647v-145.919"/>
+		<circle id="西白家窑_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="762.069" cy="1779.371" r="5.625"/>
+		<circle id="四环路_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="838.175" cy="1735.716" r="5.625"/>
+	</g>
+	<g id="M22">
+		<polyline id="M22线" fill="none" stroke="#83BFD6" stroke-width="3" stroke-dasharray="24,6" points="1873.166,883.209 
+			2074,772.643 2366.665,772.135 2390.319,750.229 2389.043,646.999 2396.778,638.5 2492.5,638.5 		"/>
+		<circle id="泃河湾" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2479.668" cy="638.5" r="5.625"/>
+		<circle id="平谷" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2442.732" cy="638.5" r="5.625"/>
+		<circle id="平谷西" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2405.795" cy="638.5" r="5.625"/>
+		<circle id="马昌营" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2390.208" cy="668.251" r="5.625"/>
+		<circle id="马坊" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2390.208" cy="704.184" r="5.625"/>
+		<circle id="齐心庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2390.208" cy="740.291" r="5.625"/>
+		<circle id="燕顺路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2374.657" cy="764.51" r="5.625"/>
+		<circle id="燕郊北" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2332.222" cy="772.643" r="5.625"/>
+		<circle id="徐辛庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2287.124" cy="772.643" r="5.625"/>
+		
+			<text id="M22平谷" transform="matrix(1 0 0 1 2140.1702 677.0828)" fill="#83BFD6" font-family="Verdana" font-weight="bold" font-size="30px">22</text>
+	</g>
+	<g id="M19">
+		<path id="M19线" fill="none" stroke="#30D6B6" stroke-width="3" stroke-dasharray="24,6" d="M1164.704,715.533v354.719
+			c0,12.748-4.617,23.932-13.48,32.77l-54.18,54.048c-9.499,9.472-14.547,22.176-14.547,34.803v225.308
+			c-0.747,18.569-3.556,23.819-13.769,34.182l-22.85,22.751c-5.075,5.36-10.092,12.371-10.092,20v230.091
+			c0,24.094,22.468,38.559,51.03,38.559h88.211"/>
+		<circle id="新发地" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1035.786" cy="1709.009" r="5.625"/>
+		<circle id="牛街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1074.875" cy="1444.93" r="5.625"/>
+		<circle id="金融街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1082.536" cy="1228.829" r="5.625"/>
+		
+			<text id="M19南苑" transform="matrix(1 0 0 1 1197.8098 1816.6648)" fill="#30D6B6" font-family="Verdana" font-weight="bold" font-size="30px">19</text>
+		
+			<text id="M19白塔寺" transform="matrix(1 0 0 1 1105.2561 1192.2732)" fill="#30D6B6" font-family="Verdana" font-weight="bold" font-size="30px">19</text>
+		
+			<text id="M19小西天" transform="matrix(1 0 0 1 1177.2043 892.6589)" fill="#30D6B6" font-family="Verdana" font-weight="bold" font-size="30px">19</text>
+	</g>
+	<g id="M17">
+		<path fill="none" stroke="#AE52FF" stroke-width="3" stroke-dasharray="24,6" d="M2053.987,1864.031l-361.35-373.275
+			c-19.238-19.873-28.227-45.467-28.227-70.028v-402.728l-0.607-329.145c-0.803-30.258-67.578-90.192-68.803-126.192V215.01v-93.945
+			V21.22"/>
+		<circle id="亦庄站前区南" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2042.67" cy="1852.425" r="5.625"/>
+		<circle id="次渠北" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1931.752" cy="1737.048" r="5.625"/>
+		<circle id="北神树" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1891.096" cy="1695.674" r="5.625"/>
+		<circle id="朝阳港" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1849.733" cy="1653.62" r="5.625"/>
+		<circle id="潘家园西" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1673.846" cy="1462.612" r="5.625"/>
+		<circle id="香河园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1664.41" cy="949.414" r="5.625"/>
+		<circle id="勇士营" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1595" cy="497.947" r="5.625"/>
+		<circle id="清河营" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1595" cy="325.066" r="5.625"/>
+		<circle id="天通苑东" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1595" cy="243.421" r="5.625"/>
+		<circle id="未来科技城南区" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1595" cy="91.672" r="5.625"/>
+		<circle id="未来科技城北区" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1595" cy="33.658" r="5.625"/>
+		
+			<text id="M17亦庄" transform="matrix(1 0 0 1 2076.7908 1891.24)" fill="#AE52FF" font-family="Verdana" font-weight="bold" font-size="30px">17</text>
+		
+			<text id="M17柳芳" transform="matrix(1 0 0 1 1617.949 917.2556)" fill="#AE52FF" font-family="Verdana" font-weight="bold" font-size="30px">17</text>
+		
+			<text id="M17鲁疃" transform="matrix(1 0 0 1 1612.324 172.113)" fill="#AE52FF" font-family="Verdana" font-weight="bold" font-size="30px">17</text>
+	</g>
+	<g id="M16E">
+		<path id="M16线未" fill="none" stroke="#6BA53A" stroke-width="3" stroke-dasharray="24,6" d="M315.015,1644.04h402.675
+			c9.359-0.018,39.129-5.339,61.32-13.906c47.504-17.134,85.323-54.22,84.682-104.159l0.008-532.307
+			c-0.255-34.56-15.266-55.757-57.773-55.757l-89.436-0.808c-15.288,0-36.896-16.114-36.945-29.323v-346.09"/>
+		<circle id="宛平城_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="330.272" cy="1643.759" r="5.625"/>
+		<circle id="榆树庄_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="387.66" cy="1643.759" r="5.625"/>
+		<circle id="看丹" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="506.489" cy="1643.759" r="5.625"/>
+		<circle id="富丰桥_4_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="446.547" cy="1643.759" r="5.625"/>
+		<circle id="丰益桥南" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="838.175" cy="1590.895" r="5.625"/>
+		<circle id="红莲南里" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="863.697" cy="1455.319" r="5.625"/>
+		<circle id="玉渊潭东门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="863.697" cy="1190.406" r="5.625"/>
+		<circle id="万寿寺" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="685.538" cy="919.81" r="5.625"/>
+		<circle id="万泉河桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="679.708" cy="664.742" r="5.625"/>
+		
+			<text id="M16榆树庄_1_" transform="matrix(1 0 0 1 274.113 1705.3845)" fill="#6BA53A" font-family="Verdana" font-weight="bold" font-size="30px">16</text>
+		
+			<text id="M16丽泽" transform="matrix(1 0 0 1 770.4905 1593.6296)" fill="#6BA53A" font-family="Verdana" font-weight="bold" font-size="30px">16</text>
+		
+			<text id="M16二里沟" transform="matrix(1 0 0 1 727.2224 926.7634)" fill="#6BA53A" font-family="Verdana" font-weight="bold" font-size="30px">16</text>
+	</g>
+	<g id="M14E">
+		<path id="M14线未" fill="none" stroke="#CC9A8E" stroke-width="3" stroke-dasharray="24,6" d="M663.011,1527.037
+			c155.007,0,511.849,0,511.849,0"/>
+		<circle id="景风门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1035.786" cy="1527.037" r="5.625"/>
+		<circle id="菜户营_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="979.11" cy="1527.037" r="5.625"/>
+		<circle id="西铁营_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="919.875" cy="1527.037" r="5.625"/>
+		<circle id="丽泽商务区_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="863.697" cy="1527.037" r="5.625"/>
+		<circle id="东管头_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="735.556" cy="1527.037" r="5.625"/>
+		
+			<text id="M14九龙山" transform="matrix(1 0 0 1 1849.593 1318.2888)" fill="#CC9A8E" font-family="Verdana" font-weight="bold" font-size="30px">14</text>
+	</g>
+	<g id="M12">
+		<path id="M12线" fill="none" stroke="#FF7F00" stroke-width="3" stroke-dasharray="24,6" d="M422.297,926.91l313.259-117.604
+			c18.905-7.097,30.944-9.602,47.389-9.609l1002.056-0.503c11.333-0.005,21.765-3.145,31.044-10.01l62.211-46.022
+			c8.917-6.597,20.744-11.438,31.411-11.438h34.752c13-0.007,24.848,5.61,33.658,16.868l30.739,74.675
+			c11.434,24.765,18.14,32.06,42.539,32.06h76.978"/>
+		<circle id="北岗子" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2004.238" cy="811.206" r="5.625"/>
+		<circle id="酒仙桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1977.823" cy="747.197" r="5.625"/>
+		<circle id="芳园里" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1823.098" cy="783.435" r="5.625"/>
+		<circle id="西坝河" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1663.803" cy="799.698" r="5.625"/>
+		<circle id="安贞桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1367.579" cy="799.698" r="5.625"/>
+		<circle id="马甸" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1236.579" cy="799.698" r="5.625"/>
+		<circle id="北太平庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1164.704" cy="799.698" r="5.625"/>
+		<circle id="苏州桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="679.913" cy="829.939" r="5.625"/>
+		<circle id="远大路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="506.691" cy="895.13" r="5.625"/>
+		<circle id="四季青" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="439.84" cy="919.816" r="5.625"/>
+		
+			<text id="M12静安庄" transform="matrix(1 0 0 1 1673.8455 789.1853)" fill="#FF7F00" font-family="Verdana" font-weight="bold" font-size="30px">12</text>
+		
+			<text id="M12双榆树" transform="matrix(1 0 0 1 918.9412 788.6853)" fill="#FF7F00" font-family="Verdana" font-weight="bold" font-size="30px">12</text>
+		
+			<text id="M12西郊" transform="matrix(1 0 0 1 376.5862 965.4236)" fill="#FF7F00" font-family="Verdana" font-weight="bold" font-size="30px">12</text>
+	</g>
+	<g id="M9E">
+		<path id="M9未北" fill="none" stroke="#DE85BB" stroke-width="3" stroke-dasharray="24,6" d="M1100.497,799.107V529.899
+			c0-19.399-2.964-37.557-7.104-51.516l-8.173-27.561c-3.213-10.824-12.144-17.453-25.432-17.453h-96.738
+			c-9.882,0-18.235-7.321-19.531-17.118l-9.445-71.423"/>
+		<path id="M9未南" fill="none" stroke="#94D600" stroke-width="3" stroke-dasharray="24,6" d="M794.347,926.764
+			c-0.141-25.43,19.687-39.157,43.17-39.157h176.364h51.473c23.646,0.06,35.144-14.873,35.144-36.573v-51.926"/>
+		<circle id="上清桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1086.81" cy="455.923" r="5.625"/>
+		<circle id="学清路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1100.497" cy="514.492" r="5.625"/>
+		<circle id="学院桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1100.497" cy="628.328" r="5.625"/>
+		<circle id="蓟门桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1100.497" cy="799.698" r="5.625"/>
+		<circle id="皂君庙" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="918.941" cy="887.579" r="5.625"/>
+	</g>
+	<g id="M8E">
+		<path id="M8线未" fill="none" stroke="#009878" stroke-width="3" stroke-dasharray="24,6" d="M1404.789,1150.07l0.191,18.059
+			l0.372,107.157l0.029,4.339c-0.382,15.375-8.692,20.664-20.382,20.666c-11.422,0.002-24.646-0.002-49,0
+			c-6.261,0.001-10.333,0.377-14.708,4.652l-14.606,15.666c-3.686,4.559-4.468,8.892-4.467,21.704v11.91l0,384.776
+			c-0.206,15.75,10.884,25.055,23.883,25.055l46.793,0.022c10-0.064,11.796,2.758,20.265,15.723S1463,1885.615,1463,1885.615"/>
+		<circle id="瀛海" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1453.328" cy="1871.679" r="5.625"/>
+		<circle id="德茂" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1435.29" cy="1844.172" r="5.625"/>
+		<circle id="五福堂" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1417.251" cy="1816.665" r="5.625"/>
+		<circle id="六营门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1399.213" cy="1789.157" r="5.625"/>
+		<circle id="西洼地" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1354.244" cy="1764.376" r="5.625"/>
+		<circle id="和义" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1302.012" cy="1740.762" r="5.625"/>
+		<circle id="大红门桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1302.012" cy="1705.385" r="5.625"/>
+		<circle id="木樨园桥南" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1302.012" cy="1608.433" r="5.625"/>
+		<circle id="木樨园桥北" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1302.012" cy="1569.814" r="5.625"/>
+		<circle id="天桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1302.012" cy="1456.987" r="5.625"/>
+		<circle id="王府井北" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1405.382" cy="1200.032" r="5.625"/>
+		<g id="M8前门" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1273.3494 1371.2761)" fill="#009878" font-family="Verdana" font-weight="bold" font-size="30px">8</text>
+		</g>
+		<g id="M8南苑" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1364.0564 1918.1277)" fill="#009878" font-family="Verdana" font-weight="bold" font-size="30px">8</text>
+		</g>
+	</g>
+	<g id="M7E">
+		<path id="M7线未" fill="none" stroke="#FFC66E" stroke-width="3" stroke-dasharray="24,6" d="M2065.72,1597.455
+			c0,0,6.314,8.626,13.809,17.214c6.035,6.916,9.472,9.734,16.954,9.734h391.52l8.498,6.842l-22.806,58.807l-17.333,11.666h-35"/>
+		<circle id="高楼金" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2444.779" cy="1624.403" r="5.625"/>
+		<circle id="小马庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2385.996" cy="1624.403" r="5.625"/>
+		<circle id="云景东路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2327.213" cy="1624.403" r="5.625"/>
+		<circle id="万盛南街西口" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2268.431" cy="1624.403" r="5.625"/>
+		<circle id="黑庄户" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2209.648" cy="1624.403" r="5.625"/>
+		<circle id="豆各庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2150.866" cy="1624.403" r="5.625"/>
+		<circle id="黄厂村" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2098.083" cy="1624.403" r="5.625"/>
+		<g id="M7黑庄户" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 2009.863 1695.5974)" fill="#FFC66E" font-family="Verdana" font-weight="bold" font-size="30px">7</text>
+		</g>
+	</g>
+	<g id="M6E">
+		<path id="M6线未西" fill="none" stroke="#B78500" stroke-width="3" stroke-dasharray="24,6" d="M537.176,1064.627
+			c-55.091,3.499-97.652,59.421-152.024,97.706c-10.752,7.571-30.303,21.165-48.685,21.31h-82.952"/>
+		<circle id="廖公庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="447.465" cy="1111.758" r="5.625"/>
+		<circle id="西黄村" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="416.347" cy="1138.098" r="5.625"/>
+		<circle id="苹果园南路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="383.761" cy="1162.927" r="5.625"/>
+	</g>
+	<g id="M3">
+		<path id="M3线" fill="none" stroke="#6B1808" stroke-width="3" stroke-dasharray="24,6" d="M473.547,1090.905
+			C473.446,1112.81,485,1131,511,1131.032h580.5c12-0.022,22.838-4.691,32.287-14.274l44.616-45.076
+			c10.759-10.912,18.587-15.873,34.087-15.873l740.51-0.117c12.5-0.002,21.537-3.161,27.306-8.889l26.091-25.907
+			c7.149-7.099,13.354-9.535,23.104-9.535h20c8,0,11.855-6.236,11.855-14.613V861.283c0-10.284,5.535-13.901,14.035-13.901h161.926
+			c13.184-0.133,26.752-11.053,26.752-25.114v-23.19c0.062-13-7.459-26.435-32.441-26.435"/>
+		<circle id="曹各庄北" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2221.627" cy="772.135" r="5.625"/>
+		<circle id="高辛庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2246.961" cy="838.072" r="5.625"/>
+		<circle id="楼梓庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2207.983" cy="848.033" r="5.625"/>
+		<circle id="楼梓庄桥西" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2161.299" cy="847.882" r="5.625"/>
+		<circle id="管庄路西口" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2116.321" cy="851.284" r="5.625"/>
+		<circle id="东风" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2071.016" cy="851.284" r="5.625"/>
+		<circle id="东坝中街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2051.356" cy="932.579" r="5.625"/>
+		<circle id="平房村" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2051.356" cy="969.805" r="5.625"/>
+		<circle id="朝阳体育中心" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2027.594" cy="1011.581" r="5.625"/>
+		<circle id="星火站" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1984.06" cy="1032.84" r="5.625"/>
+		<circle id="石佛营" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1897.115" cy="1055.688" r="5.625"/>
+		<circle id="工人体育场" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1664.41" cy="1055.688" r="5.625"/>
+		<circle id="展览路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="956.923" cy="1131.032" r="5.625"/>
+		<circle id="甘家口_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="863.701" cy="1131.032" r="5.625"/>
+		<circle id="航天桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="710.657" cy="1131.032" r="5.625"/>
+		<circle id="恩济东街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="577.633" cy="1131.032" r="5.625"/>
+		<circle id="永定路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="530.551" cy="1131.032" r="5.625"/>
+		<circle id="田村" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="473.547" cy="1090.594" r="5.625"/>
+		<g id="M3东坝">
+			<text transform="matrix(1 0 0 1 2105.7839 950.9138)" fill="#6B1808" font-family="Verdana" font-weight="bold" font-size="30px">3</text>
+		</g>
+		<g id="M3小街">
+			<text transform="matrix(1 0 0 1 1491.7009 1045.0388)" fill="#6B1808" font-family="Verdana" font-weight="bold" font-size="30px">3</text>
+		</g>
+		
+			<text id="M3西钓鱼台" transform="matrix(1 0 0 1 810.4163 1121.6121)" fill="#6B1808" font-family="Verdana" font-weight="bold" font-size="30px">3</text>
+	</g>
+	<g id="BT_x5F_E">
+		<polyline id="八通线未" fill="none" stroke="#A8353A" stroke-width="3" stroke-dasharray="24,6" points="2431.526,1518.384 
+			2509,1600.456 2509,1616.5 2478.667,1696.093 2458,1709.049 2421.362,1709.049 		"/>
+		<circle id="环球影城" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2431.779" cy="1704.924" r="5.625"/>
+		<circle id="施园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2485.279" cy="1669.952" r="5.625"/>
+	</g>
+	<g id="AE_2_">
+		<path id="机场线_1_" fill="none" stroke="#A292B3" stroke-width="7" d="M1551.33,984.925c0,0,20.515,0.331,33.52-17.528
+			c13.005-17.859,16.514-71.049,36.952-86.548l444.723-336.757l151.203-66.999l-5.008-8.81c0,0-31.664,17.364-31.992,2.81
+			c-0.172-7.598,6.89-32.339,9-45c5-30,7.022-45.666,6.955-59.988l-11-0.5c0,0-11.714,130.8-42.751,144.631"/>
+		<path id="出京箭头尾部_1_" fill="none" stroke="#000000" stroke-width="3" d="M2176.309,506.734
+			c25.268-10.172,25.203-10.13,38.639-16.022"/>
+		<path id="出京箭头_1_" d="M2222.408,486.506c-2.694,3.272-5.695,7.928-7,11.768l-1.262-6.966l-5.428-4.545
+			C2212.701,487.531,2218.23,487.227,2222.408,486.506z"/>
+		<path id="进京尾部_1_" fill="none" stroke="#000000" stroke-width="3" d="M2169.336,410.423c0,13.6-4.019,34.123-11.166,45.5"
+			/>
+		<path id="进京箭头_1_" d="M2153.674,463.077c0.867-4.15,1.359-9.667,0.729-13.673l4.354,5.58l6.918,1.503
+			C2161.795,457.658,2157.037,460.495,2153.674,463.077z"/>
+		<path id="航站箭头尾部_1_" fill="none" stroke="#000000" stroke-width="3" d="M2214.336,451.091
+			c-3,7-12.365,11.646-16.334,3c-4.183-9.115,1.054-22.896,3.797-31.08"/>
+		<path id="航站箭头_1_" d="M2204.485,414.999c0.136,4.239,0.954,9.717,2.509,13.461l-5.547-4.397l-7.076,0.166
+			C2197.868,422.177,2201.823,418.301,2204.485,414.999z"/>
+		<circle id="_x5F_2号航站楼_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2191.192" cy="365.934" r="5.625"/>
+		<circle id="_x5F_3号航站楼_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2214.618" cy="472.957" r="5.625"/>
+	</g>
+	<g id="M27">
+		<polyline id="昌平线" fill="none" stroke="#DE85BB" stroke-width="7" points="934.074,344.827 920.274,240.214 
+			932.672,220.732 1008.108,211.427 1020.564,194.859 993.772,65.446 1007.442,55.113 1008.55,30.249 997.55,16.249 738.55,16.249 
+					"/>
+		<circle id="生命科学园_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="959.442" cy="217.113" r="5.625"/>
+		<circle id="巩华城_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1009.669" cy="142.216" r="5.625"/>
+		<circle id="沙河_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1003.478" cy="112.32" r="5.625"/>
+		<circle id="沙河高教园_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="997.286" cy="82.423" r="5.625"/>
+		<circle id="南邵_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1008.257" cy="41.152" r="5.625"/>
+		<circle id="北邵洼" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="982.55" cy="15.595" r="5.625"/>
+		<circle id="昌平东关" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="925.732" cy="15.595" r="5.625"/>
+		<circle id="昌平_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="868.913" cy="15.595" r="5.625"/>
+		<circle id="十三陵景区_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="812.094" cy="15.595" r="5.625"/>
+		<circle id="昌平西山口" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="755.276" cy="15.595" r="5.625"/>
+		<path fill="none" stroke="#DE85BB" d="M916.642,237.986"/>
+	</g>
+	<g id="M26">
+		<polyline id="M26线" fill="none" stroke="#A65A2A" stroke-width="7" stroke-linecap="square" points="265.462,1176.357 
+			222.515,1176.357 190.405,1187.703 190.405,1298.814 172.094,1313.198 113.274,1313.198 80.515,1325 		"/>
+		<circle id="四道桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="209.801" cy="1181.642" r="5.625"/>
+		<circle id="石龙路_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="190.312" cy="1204.319" r="5.625"/>
+		<circle id="上岸村_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="190.312" cy="1237.802" r="5.625"/>
+		<circle id="矿务局_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="190.312" cy="1271.286" r="5.625"/>
+		<circle id="小园_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="154.061" cy="1313.36" r="5.625"/>
+		<circle id="石门营_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="96.515" cy="1319.485" r="5.625"/>
+		<circle id="金安桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="265.462" cy="1180.017" r="5.625"/>
+	</g>
+	<g id="YF">
+		<path id="燕房线" fill="none" stroke="#DC6016" stroke-width="7" d="M406.777,1961.113c0,0-279.011,0.174-300.011-0.366
+			s-21.217-6.791-34.714-28.531c-13.497-21.74-37.552-60.486-37.552-60.486"/>
+		<circle id="大紫草坞" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="364.835" cy="1961.14" r="5.625"/>
+		<circle id="阎村" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="317.312" cy="1961.14" r="5.625"/>
+		<circle id="星城" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="269.79" cy="1961.14" r="5.625"/>
+		<circle id="阎富路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="222.267" cy="1961.14" r="5.625"/>
+		<circle id="顾八路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="174.744" cy="1961.14" r="5.625"/>
+		<circle id="饶乐府" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="127.221" cy="1961.14" r="5.625"/>
+		<circle id="老城区北" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="59.979" cy="1914.043" r="5.625"/>
+		<circle id="燕化" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="42.166" cy="1884.55" r="5.625"/>
+	</g>
+	<g id="M25">
+		<polyline id="房山线" fill="none" stroke="#DC6016" stroke-width="7" points="387.777,1971.64 533.067,1971.64 
+			549.084,1861.223 593.548,1861.384 593.548,1841.05 626.965,1825.43 626.965,1801.008 		"/>
+		<circle id="大葆台_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="626.965" cy="1825.429" r="5.625"/>
+		<circle id="稻田_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="593.548" cy="1839.587" r="5.625"/>
+		<circle id="长阳_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="592.868" cy="1861.384" r="5.625"/>
+		<circle id="篱笆房_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="549.084" cy="1861.384" r="5.625"/>
+		<circle id="广阳城_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="545.153" cy="1888.85" r="5.625"/>
+		<circle id="良乡大学城北_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="541.221" cy="1916.317" r="5.625"/>
+		<circle id="良乡大学城_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="537.291" cy="1943.784" r="5.625"/>
+		<circle id="良乡大学城西_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="533.36" cy="1971.251" r="5.625"/>
+		<circle id="良乡南关_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="490.354" cy="1971.412" r="5.625"/>
+		<circle id="苏庄_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="447.471" cy="1971.251" r="5.625"/>
+		<circle id="阎村北_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="397.777" cy="1965.815" r="5.625"/>
+	</g>
+	<g id="M24">
+		<path id="亦庄线" fill="none" stroke="#D6006E" stroke-width="7" stroke-linejoin="round" d="M1432.073,1654.403v49.668
+			l132.987,121l67.777-53.109l155.528,138.151l245.103-174.632"/>
+		<circle id="亦庄火车站" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2022.969" cy="1742.673" r="5.625"/>
+		<circle id="次渠" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1972.127" cy="1779.634" r="5.625"/>
+		<circle id="次渠南" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1899.449" cy="1830.865" r="5.625"/>
+		<circle id="经海路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1852.809" cy="1864.031" r="5.625"/>
+		<circle id="同济南路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1806.168" cy="1897.198" r="5.625"/>
+		<circle id="荣昌东街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1760.095" cy="1885.615" r="5.625"/>
+		<circle id="荣京东街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1712.389" cy="1843.574" r="5.625"/>
+		<circle id="万源街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1664.682" cy="1801.532" r="5.625"/>
+		<circle id="亦庄文化园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1620.512" cy="1781.907" r="5.625"/>
+		<circle id="亦庄桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1565.02" cy="1824.198" r="5.625"/>
+		<circle id="旧宫" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1518.231" cy="1781.532" r="5.625"/>
+		<circle id="小红门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1474.852" cy="1742.673" r="5.625"/>
+		<circle id="肖村" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1703.341" r="5.625"/>
+	</g>
+	<g id="M16_1_">
+		<polyline id="M16线" fill="none" stroke="#6BA53A" stroke-width="7" points="679.547,561.689 679.547,395.283 615.67,322.496 
+			307.85,323.001 		"/>
+		<circle id="农大南路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="679.547" cy="465.276" r="5.625"/>
+		<circle id="马连洼" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="679.547" cy="420.993" r="5.625"/>
+		<circle id="西北旺" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="666.746" cy="381.038" r="5.625"/>
+		<circle id="永丰南" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="636.212" cy="346.724" r="5.625"/>
+		<circle id="永丰" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="599.678" cy="322.62" r="5.625"/>
+		<circle id="屯佃" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="528.946" cy="322.62" r="5.625"/>
+		<circle id="稻香湖路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="458.213" cy="322.62" r="5.625"/>
+		<circle id="温阳路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="387.481" cy="322.62" r="5.625"/>
+		<circle id="北安河" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="322.748" cy="322.62" r="5.625"/>
+		
+			<text id="M16北安河" transform="matrix(1 0 0 1 249.782 366.448)" fill="#6BA53A" font-family="Verdana" font-weight="bold" font-size="30px">16</text>
+	</g>
+	<g id="M15">
+		<path id="M15线未_1_" fill="none" stroke="#673278" stroke-width="7" d="M972.268,572.688h563.627
+			c14.105,0.003,12.855,30.407,31.31,30.407h18.646h267.675l22-19l16-109l29-26h98.809l22.659-15.923l57.15-140.702l24.623-22.278
+			l17.168-14.815l29-13h241.104"/>
+		<circle id="俸伯_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2377.281" cy="242.378" r="5.625"/>
+		<circle id="顺义_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2321.858" cy="242.378" r="5.625"/>
+		<circle id="石门_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2266.436" cy="242.378" r="5.625"/>
+		<circle id="南法信_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2211.013" cy="242.378" r="5.625"/>
+		<circle id="后沙峪_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2118.858" cy="274.589" r="5.625"/>
+		<circle id="花梨坎_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2088.18" cy="319.518" r="5.625"/>
+		<circle id="国展_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2068.428" cy="367.378" r="5.625"/>
+		<circle id="孙河_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2048.677" cy="415.237" r="5.625"/>
+		<circle id="马泉营_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1976.918" cy="449.095" r="5.625"/>
+		<circle id="崔各庄_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1886.138" cy="509.867" r="5.625"/>
+		<circle id="望京东_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1863.791" cy="593.47" r="5.625"/>
+		<circle id="关庄_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1514.227" cy="572.828" r="5.625"/>
+		<circle id="安立路_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1369.227" cy="572.828" r="5.625"/>
+		<circle id="北沙滩_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1210.227" cy="572.828" r="5.625"/>
+		<circle id="六道口_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1100.497" cy="572.828" r="5.625"/>
+		
+			<text id="M15望京" transform="matrix(1 0 0 1 1811.7932 589.4861)" fill="#673278" font-family="Verdana" font-weight="bold" font-size="30px">15</text>
+		<g id="M15后沙峪_1_" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 2152.6741 293.573)" fill="#673278" font-family="Verdana" font-weight="bold" font-size="30px">15</text>
+		</g>
+		
+			<text id="M15清华东_1_" transform="matrix(1 0 0 1 986.4724 559.2859)" fill="#673278" font-family="Verdana" font-weight="bold" font-size="30px">15</text>
+	</g>
+	<g id="M14">
+		<path id="M14线东" fill="none" stroke="#CC9A8E" stroke-width="7" d="M1174.86,1527.037c0,0,592.924,0,603.238,0
+			c27,0,62.842-7.625,62.952-51.281V921.507c0.758-20.079,7.277-25.366,20.572-32.288l22.737-11.838
+			c10.759-5.493,14.738-9.048,14.738-20.57c0,0,0-83.562,0-88.812c0-13.208-9.561-24.021-15.286-32.406
+			c-26.033-38.128-59.985-85.164-92.849-132.719c-10.795-15.621-13.49-19.404-13.49-52.734c0-16.145,0-52.606,0-69.17
+			c0-30.681,31.277-40.559,45.625-40.559c8.152,0,9.857,0.011,18.75,0"/>
+		<path id="M14线西" fill="none" stroke="#CC9A8E" stroke-width="7" d="M154.015,1527.037c0,0,238.992,0,513.996,0"/>
+		<circle id="善各庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1823.098" cy="440.327" r="5.625"/>
+		<circle id="来广营" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1777.473" cy="480.952" r="5.625"/>
+		<circle id="东湖渠" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1777.473" cy="531.085" r="5.625"/>
+		<circle id="望京" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1790.9" cy="603.095" r="5.625"/>
+		<circle id="阜通" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1818.051" cy="640.573" r="5.625"/>
+		<circle id="望京南" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1842.464" cy="676.753" r="5.625"/>
+		<circle id="高家园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1885.574" cy="737.538" r="5.625"/>
+		<circle id="将台" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1899.253" cy="841.38" r="5.625"/>
+		<circle id="东风北桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1873.166" cy="883.329" r="5.625"/>
+		<circle id="枣营_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1841.248" cy="939.741" r="5.625"/>
+		<circle id="朝阳公园_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1840.94" cy="1055.688" r="5.625"/>
+		<circle id="红庙" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1840.94" cy="1201.023" r="5.625"/>
+		<circle id="平乐园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1840.94" cy="1434.877" r="5.625"/>
+		<circle id="北工大西门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1839.94" cy="1490.494" r="5.625"/>
+		<circle id="方庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1575.703" cy="1527.037" r="5.625"/>
+		<circle id="景泰" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1365.95" cy="1527.037" r="5.625"/>
+		<circle id="永定门外" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1302.012" cy="1527.037" r="5.625"/>
+		<circle id="陶然桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1241.905" cy="1527.037" r="5.625"/>
+		<circle id="大井" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="521.988" cy="1527.037" r="5.625"/>
+		<circle id="郭庄子_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="431.801" cy="1527.037" r="5.625"/>
+		<circle id="大瓦窑" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="341.613" cy="1527.037" r="5.625"/>
+		<circle id="园博园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="237.806" cy="1527.037" r="5.625"/>
+		<circle id="张郭庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="167.098" cy="1527.037" r="5.625"/>
+		<g id="M14马泉营">
+			<text transform="matrix(1 0 0 1 1718.0349 455.9226)" fill="#CC9A8E" font-family="Verdana" font-weight="bold" font-size="30px">14</text>
+		</g>
+		<g id="M14园博园">
+			<text transform="matrix(1 0 0 1 72.427 1602.2898)" fill="#CC9A8E" font-family="Verdana" font-weight="bold" font-size="30px">14</text>
+		</g>
+	</g>
+	<g id="M13_1_">
+		<path id="M13线" fill="none" stroke="#F6DA40" stroke-width="7" d="M1045.094,983.068c-12.9,0-23.358-11.612-23.358-36.041
+			L940.123,329.05c-5.098-38.6,24.942-72.867,63.877-72.867h0h257.57c18.583,0.232,70.848,15.592,92.674,29.817l207.539,124.448
+			c42.12,27.565,62.576,63.454,62.576,118.669c0,17.293-14.895,99.805-21.262,121.407c-6.367,21.602-17.33,58.793-17.33,58.793
+			c-6.304,23.632-11.7,44.454-11.561,61.198c0.195,23.924,0.62,186.617,0.62,186.617c0,14.323-10.599,27.201-23.497,27.201"/>
+		<circle id="柳芳_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1574.703" cy="849.704" r="5.625"/>
+		<circle id="光熙门_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1574.703" cy="799.698" r="5.625"/>
+		<circle id="望京西" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1612.324" cy="603.095" r="5.625"/>
+		<circle id="北苑_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1497.126" cy="372.095" r="5.625"/>
+		<circle id="回龙观_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1151.225" cy="255.893" r="5.625"/>
+		<circle id="龙泽_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1072.505" cy="256.393" r="5.625"/>
+		<circle id="西二旗_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="938.297" cy="344.706" r="5.625"/>
+		<circle id="上地_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="958.16" cy="465.96" r="5.625"/>
+		<circle id="五道口_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="980.507" cy="633.953" r="5.625"/>
+		<circle id="大钟寺_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1002.376" cy="799.698" r="5.625"/>
+		
+			<text id="M13来广营" transform="matrix(1 0 0 1 1617.95 445.9519)" fill="#F6DA40" font-family="Verdana" font-weight="bold" font-size="30px">13</text>
+		<g id="M13西二旗_1_" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 968.4749 313.8933)" fill="#F6DA40" font-family="Verdana" font-weight="bold" font-size="30px">13</text>
+		</g>
+	</g>
+	<g id="M10_1_">
+		<path id="M10线_1_" fill="none" stroke="#008FBF" stroke-width="7" d="M768.262,1653.62c-49.063,0-101.012-20.37-101-91.998
+			V1187.62c-0.585-41.147-72.334-53.632-72.333-100l-0.001-341.175c0-13.332,17.61-30.649,32.276-30.315H1660.38
+			c37.828,0,68.502,34.556,68.502,58.68l-0.14,728.476c-1.042,117.668-82.16,150.334-125.867,150.334H768.262z"/>
+		<circle id="火器营_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="595.067" cy="786.535" r="5.625"/>
+		<circle id="长春桥_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="595.067" cy="861.869" r="5.625"/>
+		<circle id="车道沟_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="595.067" cy="961.18" r="5.625"/>
+		<circle id="西钓鱼台" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="620.897" cy="1131.032" r="5.625"/>
+		<circle id="莲花桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="666.677" cy="1342.681" r="5.625"/>
+		<circle id="西局" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="667.677" cy="1527.037" r="5.625"/>
+		<circle id="泥洼" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="670.177" cy="1588.186" r="5.625"/>
+		<circle id="丰台站" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="715.636" cy="1644.399" r="5.625"/>
+		<circle id="首经贸" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="837.875" cy="1653.276" r="5.625"/>
+		<circle id="纪家庙" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="950.375" cy="1653.276" r="5.625"/>
+		<circle id="草桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1035.786" cy="1653.276" r="5.625"/>
+		<circle id="角门东" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1241.905" cy="1653.276" r="5.625"/>
+		<circle id="大红门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1302.012" cy="1653.276" r="5.625"/>
+		<circle id="石榴庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1365.95" cy="1653.276" r="5.625"/>
+		<circle id="成寿寺" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1557.875" cy="1653.276" r="5.625"/>
+		<circle id="分钟寺" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1677.471" cy="1625.697" r="5.625"/>
+		<circle id="十里河" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1727.22" cy="1527.037" r="5.625"/>
+		<circle id="潘家园_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1728.882" cy="1488.756" r="5.625"/>
+		<circle id="劲松_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1728.882" cy="1444.93" r="5.625"/>
+		<circle id="金台夕照_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1728.882" cy="1173.904" r="5.625"/>
+		<circle id="团结湖_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1728.882" cy="1055.688" r="5.625"/>
+		<circle id="农业展览馆_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1728.882" cy="986.811" r="5.625"/>
+		<circle id="亮马桥_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1728.882" cy="893.329" r="5.625"/>
+		<circle id="三元桥_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1728.882" cy="799.698" r="5.625"/>
+		<circle id="太阳宫" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1663.803" cy="716.19" r="5.625"/>
+		<circle id="芍药居" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1583.85" cy="716.19" r="5.625"/>
+		<circle id="安贞门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1367.579" cy="716.19" r="5.625"/>
+		<circle id="健德门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1236.579" cy="716.19" r="5.625"/>
+		<circle id="牡丹园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1164.704" cy="716.125" r="5.625"/>
+		<circle id="西土城" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1100.497" cy="716.19" r="5.625"/>
+		<circle id="知春路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="991.126" cy="716.19" r="5.625"/>
+		<circle id="知春里" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="891.424" cy="716.19" r="5.625"/>
+		<circle id="苏州街_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="679.547" cy="716.19" r="5.625"/>
+		<circle id="巴沟_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="624.719" cy="716.19" r="5.625"/>
+		<g id="M10六里桥" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 676.7439 1474.7556)" fill="#008FBF" font-family="Verdana" font-weight="bold" font-size="30px">10</text>
+		</g>
+		<g id="M10分钟寺" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1605.2322 1689.0964)" fill="#008FBF" font-family="Verdana" font-weight="bold" font-size="30px">10</text>
+		</g>
+		<g id="M10双井" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1673.8455 1334.3523)" fill="#008FBF" font-family="Verdana" font-weight="bold" font-size="30px">10</text>
+		</g>
+		<g id="M10亮马桥" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1673.8455 978.0388)" fill="#008FBF" font-family="Verdana" font-weight="bold" font-size="30px">10</text>
+		</g>
+		
+			<text id="M10万柳_2_" transform="matrix(1 0 0 1 536.4885 763.865)" fill="#008FBF" font-family="Verdana" font-weight="bold" font-size="30px">10</text>
+	</g>
+	<g id="M9_1_">
+		<path id="M9线_2_" fill="none" stroke="#94D600" stroke-width="7" d="M794.347,937.441v408.073
+			c0.668,50.957-167.395,80.864-167.382,130.386v325.107"/>
+		<circle id="郭公庄_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="626.965" cy="1800.791" r="5.625"/>
+		<circle id="丰台科技园_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="626.965" cy="1753.179" r="5.625"/>
+		<circle id="科怡路_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="626.965" cy="1706.759" r="5.625"/>
+		<circle id="丰台南路_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="626.965" cy="1643.759" r="5.625"/>
+		<circle id="丰台东大街_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="626.965" cy="1588.186" r="5.625"/>
+		<circle id="七里庄_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="626.965" cy="1527.037" r="5.625"/>
+		<circle id="六里桥_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="668.011" cy="1432.372" r="5.625"/>
+		<circle id="六里桥东" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="729.931" cy="1401.218" r="5.625"/>
+		<circle id="白堆子_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="794.347" cy="1131.032" r="5.625"/>
+		
+			<text id="M9郭公庄_2_" transform="matrix(1 0 0 1 586.9441 1474.7556)" fill="#94D600" font-family="Verdana" font-weight="bold" font-size="30px">9</text>
+	</g>
+	<g id="M8_1_">
+		<path id="M8线" fill="none" stroke="#009878" stroke-width="7" d="M1015.89,172.286l208.874,0.208
+			c27.556,0.417,46.476,13.989,47.188,42.417c1.397,55.839-36.659,45.056-36.942,84.089v106.672
+			c0,28.359,64.434,25.736,65.103,55.198v392.08c0.093,31.427-13.61,34.839-13.605,68.148l0.547,113.206
+			c0.313,17.8,11.255,29.419,30.226,29.419h8.35h20.771c42.276-0.096,57.981,41.732,58.389,72.934v13.413"/>
+		<circle id="中国美术馆" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1404.382" cy="1150.07" r="5.625"/>
+		<circle id="什刹海_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1286.502" cy="984.222" r="5.625"/>
+		<circle id="安德里北街_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1300.113" cy="849.704" r="5.625"/>
+		<circle id="安华桥_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1300.113" cy="799.698" r="5.625"/>
+		<circle id="北土城_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1300.113" cy="716.19" r="5.625"/>
+		<circle id="奥体中心_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1300.113" cy="657.453" r="5.625"/>
+		<circle id="奥林匹克公园_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1300.113" cy="572.828" r="5.625"/>
+		<circle id="森林公园南门_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1300.113" cy="514.492" r="5.625"/>
+		<circle id="林翠桥_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1271.16" cy="433.453" r="5.625"/>
+		<circle id="永泰庄_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1235.01" cy="402.823" r="5.625"/>
+		<circle id="西小口_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1235.01" cy="354.323" r="5.625"/>
+		<circle id="育新_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1235.01" cy="304.823" r="5.625"/>
+		<circle id="霍营_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1261.185" cy="256.043" r="5.625"/>
+		<circle id="回龙观东大街_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1271.16" cy="207.01" r="5.625"/>
+		<circle id="平西府_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1224.764" cy="172.06" r="5.625"/>
+		<circle id="育知路_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1140.276" cy="172.06" r="5.625"/>
+		<circle id="朱辛庄_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1015.861" cy="172.113" r="5.625"/>
+		
+			<text id="M8鼓楼" transform="matrix(1 0 0 1 1298.7185 966.8054)" fill="#009878" font-family="Verdana" font-weight="bold" font-size="30px">8</text>
+		<g id="M8奥运村" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1317.4534 475.3269)" fill="#009878" font-family="Verdana" font-weight="bold" font-size="30px">8</text>
+		</g>
+		<g id="M8平西府_1_" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1066.8796 159.6277)" fill="#009878" font-family="Verdana" font-weight="bold" font-size="30px">8</text>
+		</g>
+	</g>
+	<g id="M7">
+		<path id="M7线" fill="none" stroke="#FFC66E" stroke-width="7" d="M794.347,1345.514c0.29,20.432,9.474,51.375,40.764,51.375
+			H1948.71c11.724-0.693,17.667,10.651,17.625,18.478V1559.5c0,9.593,5.113,16.433,20.595,16.501h42.78
+			c13.292,0,24.988,9.324,36.01,21.454"/>
+		<circle id="焦化厂_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2066.279" cy="1597.456" r="5.625"/>
+		<circle id="双合_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2035.469" cy="1576.001" r="5.625"/>
+		<circle id="垡头_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1993.217" cy="1576.001" r="5.625"/>
+		<circle id="欢乐谷景区_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1966.377" cy="1527.037" r="5.625"/>
+		<circle id="南楼梓庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1966.377" cy="1479.51" r="5.625"/>
+		<circle id="化工" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1966.377" cy="1431.981" r="5.625"/>
+		<circle id="百子湾" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1944.672" cy="1396.943" r="5.625"/>
+		<circle id="大郊亭" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1894.127" cy="1396.55" r="5.625"/>
+		<circle id="九龙山_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1840.94" cy="1396.55" r="5.625"/>
+		<circle id="双井_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1728.882" cy="1396.943" r="5.625"/>
+		<circle id="广渠门外" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1664.41" cy="1396.943" r="5.625"/>
+		<circle id="广渠门内" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1514.782" cy="1396.943" r="5.625"/>
+		<circle id="桥湾" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1375.348" cy="1396.943" r="5.625"/>
+		<circle id="珠市口" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1302.012" cy="1396.943" r="5.625"/>
+		<circle id="虎坊桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1241.905" cy="1396.943" r="5.625"/>
+		<circle id="广安门内_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="993.28" cy="1396.943" r="5.625"/>
+		<circle id="达官营_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="863.697" cy="1396.943" r="5.625"/>
+		<circle id="湾子_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="827.474" cy="1396.943" r="5.625"/>
+		<circle id="北京西站_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="794.347" cy="1344.568" r="5.625"/>
+		<g id="M7百子湾_1_" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1694.866 1432.5808)" fill="#FFC66E" font-family="Verdana" font-weight="bold" font-size="30px">7</text>
+		</g>
+		
+			<text id="M7北京西_2_" transform="matrix(1 0 0 1 807.3435 1347.4792)" fill="#FFC66E" font-family="Verdana" font-weight="bold" font-size="30px">7</text>
+	</g>
+	<g id="M6">
+		<path id="M6线" fill="none" stroke="#B78500" stroke-width="7" d="M2475,1233.334h-190.926l-85.996-102.375H1417.25
+			c-41.728-0.518-53.193-66.92-86.548-66.92l-49.825,0.588H537.176"/>
+		<circle id="潞城" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2455.659" cy="1233.533" r="5.625"/>
+		<circle id="东夏园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2405.796" cy="1233.533" r="5.625"/>
+		<circle id="郝家府" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2355.932" cy="1233.533" r="5.625"/>
+		<circle id="北运河东" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2306.069" cy="1233.533" r="5.625"/>
+		<circle id="北运河西" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2253.708" cy="1197.898" r="5.625"/>
+		<circle id="通运门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2234.879" cy="1175.377" r="5.625"/>
+		<circle id="通州北关" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2216.05" cy="1152.856" r="5.625"/>
+		<circle id="物资学院路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2182.511" cy="1130.723" r="5.625"/>
+		<circle id="草房_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2133.698" cy="1130.723" r="5.625"/>
+		<circle id="常营_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2080.947" cy="1130.723" r="5.625"/>
+		<circle id="黄渠_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2035.47" cy="1130.723" r="5.625"/>
+		<circle id="褡裢坡_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1987.593" cy="1130.723" r="5.625"/>
+		<circle id="青年路_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1941.732" cy="1130.723" r="5.625"/>
+		<circle id="十里堡_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1897.115" cy="1130.723" r="5.625"/>
+		<circle id="金台路_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1840.94" cy="1130.723" r="5.625"/>
+		<circle id="呼家楼_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1728.882" cy="1130.723" r="5.625"/>
+		<circle id="东大桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1664.41" cy="1130.723" r="5.625"/>
+		<circle id="南锣鼓巷" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1325.077" cy="1059.369" r="5.625"/>
+		<circle id="北海北" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1253.349" cy="1064.579" r="5.625"/>
+		<circle id="车公庄西" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="958.219" cy="1064.579" r="5.625"/>
+		<circle id="白石桥南" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="794.347" cy="1064.579" r="5.625"/>
+		<circle id="花园桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="685.538" cy="1064.579" r="5.625"/>
+		<circle id="慈寿寺_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="595.067" cy="1064.579" r="5.625"/>
+		<circle id="海淀五路居" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="537.176" cy="1064.579" r="5.625"/>
+		
+			<text id="M6五里桥" transform="matrix(1 0 0 1 2105.783 1085.4998)" fill="#B78500" font-family="Verdana" font-weight="bold" font-size="30px">6</text>
+		<g id="M6平安里" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1323.6902 1118.488)" fill="#B78500" font-family="Verdana" font-weight="bold" font-size="30px">6</text>
+		</g>
+		<g id="M6五路" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 746.0686 1051.7458)" fill="#B78500" font-family="Verdana" font-weight="bold" font-size="30px">6</text>
+		</g>
+	</g>
+	<g id="M5">
+		<line id="M5线" fill="none" stroke="#AF0661" stroke-width="7" x1="1432.066" y1="147.84" x2="1432.073" y2="1654.032"/>
+		<circle id="宋家庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1653.276" r="5.625"/>
+		<circle id="刘家窑" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1589.032" r="5.625"/>
+		<circle id="蒲黄榆" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1527.037" r="5.625"/>
+		<circle id="天坛东门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1456.987" r="5.625"/>
+		<circle id="磁器口" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1396.943" r="5.625"/>
+		<circle id="灯市口" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1200.032" r="5.625"/>
+		<circle id="东四" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1130.723" r="5.625"/>
+		<circle id="张自忠路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1055.688" r="5.625"/>
+		<circle id="北新桥_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.073" cy="983.664" r="5.625"/>
+		<circle id="和平里北街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="849.704" r="5.625"/>
+		<circle id="和平西桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.073" cy="799.698" r="5.625"/>
+		<circle id="惠新西街南口" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="716.19" r="5.625"/>
+		<circle id="惠新西街北口" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="657.453" r="5.625"/>
+		<circle id="大屯路东" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="572.828" r="5.625"/>
+		<circle id="北苑路北" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="446.453" r="5.625"/>
+		<circle id="立水桥南" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="387.453" r="5.625"/>
+		<circle id="立水桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="332.322" r="5.625"/>
+		<circle id="天通苑南" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="261.947" r="5.625"/>
+		<circle id="天通苑" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="212.947" r="5.625"/>
+		<circle id="天通苑北" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="164.952" r="5.625"/>
+		<g id="M5天通苑" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1396.6902 268.9636)" fill="#AF0661" font-family="Verdana" font-weight="bold" font-size="30px">5</text>
+		</g>
+		<g id="M5和平里" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1402.238 898.2839)" fill="#AF0661" font-family="Verdana" font-weight="bold" font-size="30px">5</text>
+		</g>
+		
+			<text id="M5棋院" transform="matrix(1 0 0 1 1402.239 1493.5642)" fill="#AF0661" font-family="Verdana" font-weight="bold" font-size="30px">5</text>
+	</g>
+	<g id="DX">
+		<path id="大兴线" fill="none" stroke="#008996" stroke-width="7" d="M1174.86,1712.384v71.691l-85.853,34v182l-27.048,15.494
+			v70.931"/>
+		<circle id="义和庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1061.959" cy="2025.523" r="5.625"/>
+		<circle id="生物医药基地" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1061.959" cy="2050.011" r="5.625"/>
+		<circle id="天宫院" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1061.959" cy="2074.5" r="5.625"/>
+		<circle id="黄村火车站" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1089.035" cy="1986.012" r="5.625"/>
+		<circle id="黄村西大街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1089.035" cy="1960.345" r="5.625"/>
+		<circle id="清源路" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1089.035" cy="1934.679" r="5.625"/>
+		<circle id="枣园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1089.035" cy="1909.012" r="5.625"/>
+		<circle id="高米店南" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1089.035" cy="1883.345" r="5.625"/>
+		<circle id="高米店北" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1089.035" cy="1857.679" r="5.625"/>
+		<circle id="西红门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1089.035" cy="1832.012" r="5.625"/>
+		<circle id="新宫" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1762.762" r="5.625"/>
+	</g>
+	<g id="M4_1_">
+		<path id="M4线" fill="none" stroke="#008996" stroke-width="7" d="M576.802,520.293v19.606
+			c0.078,17.344,11.155,20.423,24.995,20.974c8.993,0.358,174.205,0.007,174.205,0.007c12.721,0.363,18.346,5.782,18.51,23.393
+			l-0.363,377.108c0.069,16.41,10.332,22.37,20.326,22.784l328.674-0.134c20.222,0,31.472,9.303,31.88,25.97l-0.167,702.381"/>
+		<circle id="公益西桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1712.384" r="5.625"/>
+		<circle id="角门西" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1653.276" r="5.625"/>
+		<circle id="北京南站" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1527.037" r="5.625"/>
+		<circle id="马家堡" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1592.974" r="5.625"/>
+		<circle id="陶然亭" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1456.987" r="5.625"/>
+		<circle id="菜市口" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1396.943" r="5.625"/>
+		<circle id="灵境胡同" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1171.99" r="5.625"/>
+		<circle id="西四" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1129.929" r="5.625"/>
+		<path id="平安里" fill="#FFFFFF" stroke="#000000" stroke-width="2" d="M1164.955,1070.204c-3.107,0-5.625-2.518-5.625-5.625
+			s2.518-5.625,5.625-5.625h11.249c3.106,0,5.625,2.518,5.625,5.625s-2.519,5.625-5.625,5.625H1164.955z"/>
+		<circle id="新街口_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1105.8" cy="984.334" r="5.625"/>
+		<circle id="动物园_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="918.107" cy="984.222" r="5.625"/>
+		<circle id="国家图书馆_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="794.347" cy="937.441" r="5.625"/>
+		<circle id="魏公村_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="794.347" cy="860.298" r="5.625"/>
+		<circle id="人民大学_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="794.347" cy="799.698" r="5.625"/>
+		<circle id="海淀黄庄_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="794.347" cy="716.19" r="5.625"/>
+		<circle id="中关村_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="794.347" cy="661.313" r="5.625"/>
+		<circle id="北京大学东门_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="794.347" cy="617.816" r="5.625"/>
+		<circle id="圆明园_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="763.555" cy="561.689" r="5.625"/>
+		<circle id="西苑_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="679.708" cy="560.937" r="5.625"/>
+		<circle id="北宫门_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="619.699" cy="560.937" r="5.625"/>
+		<circle id="安河桥北_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="576.879" cy="535.937" r="5.625"/>
+		
+			<text id="M4角门西" transform="matrix(1 0 0 1 1186.8186 1641.5359)" fill="#008996" font-family="Verdana" font-weight="bold" font-size="30px">4</text>
+		<g id="M4西苑_1_" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 624.3445 543.5007)" fill="#008996" font-family="Verdana" font-weight="bold" font-size="30px">4</text>
+		</g>
+		<g id="M4国图_2_" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 819.3162 1015.5134)" fill="#008996" font-family="Verdana" font-weight="bold" font-size="30px">4</text>
+		</g>
+	</g>
+	<g id="M2_1_">
+		<path id="M2线_2_" fill="none" stroke="#004A88" stroke-width="7" d="M1552.083,1248.981c0,35.712-28.884,64.665-64.516,64.665
+			h-377.699c-35.63,0-64.515-28.953-64.515-64.665V994.244c0-35.714,28.885-64.665,64.515-64.665h377.699
+			c35.631,0,64.516,28.951,64.516,64.665V1248.981z"/>
+		<circle id="车公庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1045.354" cy="1064.579" r="5.625"/>
+		<circle id="阜成门_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1045.354" cy="1131.032" r="5.625"/>
+		<circle id="长椿街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1060.411" cy="1290.505" r="5.625"/>
+		<circle id="宣武门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1313.539" r="5.625"/>
+		<circle id="和平门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1241.865" cy="1313.539" r="5.625"/>
+		<circle id="前门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1312.012" cy="1313.539" r="5.625"/>
+		<circle id="崇文门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1313.539" r="5.625"/>
+		<circle id="北京站_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1533.148" cy="1293.664" r="5.625"/>
+		<circle id="朝阳门_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1552.19" cy="1130.723" r="5.625"/>
+		<circle id="东四十条_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1552.19" cy="1055.688" r="5.625"/>
+		<circle id="东直门_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1551.523" cy="983.664" r="5.625"/>
+		<circle id="雍和宫" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="929.579" r="5.625"/>
+		<circle id="安定门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1361.954" cy="929.939" r="5.625"/>
+		<circle id="鼓楼大街" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1286.502" cy="929.579" r="5.625"/>
+		<circle id="积水潭" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1164.954" cy="928.91" r="5.625"/>
+		<circle id="西直门" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1045.354" cy="983.664" r="5.625"/>
+		<g id="M2北京站" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 1455.3289 1304.6462)" fill="#004A88" font-family="Verdana" font-weight="bold" font-size="30px">2</text>
+		</g>
+		
+			<text id="M2太平湖" transform="matrix(1 0 0 1 1060.4111 1023.4644)" fill="#004A88" font-family="Verdana" font-weight="bold" font-size="30px">2</text>
+	</g>
+	<g id="BT">
+		<polyline id="八通线" fill="none" stroke="#A8353A" stroke-width="7" points="1869,1249 2179.549,1249.502 2431.526,1518.384 
+					"/>
+		<circle id="土桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2431.526" cy="1518.384" r="5.625"/>
+		<circle id="临河里" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2393.492" cy="1477.867" r="5.625"/>
+		<circle id="梨园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2355.459" cy="1437.351" r="5.625"/>
+		<circle id="九棵树" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2317.426" cy="1396.835" r="5.625"/>
+		<circle id="果园" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2279.393" cy="1356.318" r="5.625"/>
+		<circle id="通州北苑" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2241.36" cy="1315.802" r="5.625"/>
+		<circle id="八里桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2203.326" cy="1275.286" r="5.625"/>
+		<circle id="管庄" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2147.674" cy="1249" r="5.625"/>
+		<circle id="双桥" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2081.554" cy="1249" r="5.625"/>
+		<circle id="传媒大学" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="2030.682" cy="1249" r="5.625"/>
+		<circle id="高碑店" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1978.685" cy="1249" r="5.625"/>
+	</g>
+	<g id="M1_1_">
+		<polyline id="M1线" fill="none" stroke="#A8353A" stroke-width="7" points="324.256,1180.017 336.692,1242.33 1925.343,1242.33 
+					"/>
+		<circle id="四惠东" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1919.948" cy="1245.828" r="5.625"/>
+		<circle id="四惠" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1876.617" cy="1245.828" r="5.625"/>
+		<circle id="大望路_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1840.94" cy="1241.828" r="5.625"/>
+		<circle id="国贸_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1728.882" cy="1242.799" r="5.625"/>
+		<circle id="永安里" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1664.41" cy="1242.453" r="5.625"/>
+		<circle id="建国门_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1552.19" cy="1242.453" r="5.625"/>
+		<circle id="东单" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1432.066" cy="1242.453" r="5.625"/>
+		<circle id="王府井" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1405.382" cy="1241.828" r="5.625"/>
+		<circle id="天安门东" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1304.382" cy="1241.828" r="5.625"/>
+		<circle id="天安门西" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1240.382" cy="1241.828" r="5.625"/>
+		<circle id="西单" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1174.86" cy="1242.828" r="5.625"/>
+		<circle id="复兴门_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1045.354" cy="1242.828" r="5.625"/>
+		<circle id="南礼士路_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="939.897" cy="1241.828" r="5.625"/>
+		<circle id="木樨地_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="863.697" cy="1241.828" r="5.625"/>
+		<circle id="军事博物馆_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="794.347" cy="1242.453" r="5.625"/>
+		<circle id="公主坟_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="667.677" cy="1241.828" r="5.625"/>
+		<circle id="万寿路_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="613.897" cy="1241.828" r="5.625"/>
+		<circle id="五棵松_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="558.497" cy="1241.828" r="5.625"/>
+		<circle id="玉泉路_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="503.097" cy="1241.828" r="5.625"/>
+		<circle id="八宝山_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="447.697" cy="1241.828" r="5.625"/>
+		<circle id="八角游乐园_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="392.297" cy="1241.828" r="5.625"/>
+		<circle id="古城_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="336.897" cy="1241.828" r="5.625"/>
+		<circle id="苹果园_2_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="323.849" cy="1180.017" r="5.625"/>
+		<g id="M1古城_2_" enable-background="new    ">
+			<text transform="matrix(1 0 0 1 810.4163 1230.863)" fill="#A8353A" font-family="Verdana" font-weight="bold" font-size="30px">1</text>
+		</g>
+		<text id="M1四惠" transform="matrix(1 0 0 1 1906.2 1230.3132)" fill="#A8353A" font-family="Verdana" font-weight="bold" font-size="30px">1</text>
+	</g>
+	<g id="M6S">
+		<circle id="二里沟" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="863.701" cy="1064.579" r="5.626"/>
+	</g>
+	<g id="M13S">
+		<circle id="建材城东路_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1374.852" cy="299.198" r="5.625"/>
+		<circle id="清河站" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="946.422" cy="401.528" r="5.625"/>
+		<circle id="清华东_1_" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="972.268" cy="572.828" r="5.625"/>
+		<circle id="明光桥西" fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="1014.626" cy="887.579" r="5.625"/>
+	</g>
+</g>
+<g id="en">
+	<g id="en_Note">
+		<rect x="1579.143" y="2074" fill="none" width="622.113" height="57"/>
+		<text id="en_Note_text" transform="matrix(1 0 0 1 1579.1428 2087.7107)"><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Note: The two “Guanzhuang”s are of same pinyin, but different characters. The </tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Guanzhuang of Line 15 is “</tspan><tspan x="199.641" y="19.2" font-family="Noto Sans CJK SC" font-weight="300" font-size="16px">关庄</tspan><tspan x="231.641" y="19.2" font-family="Noto Sans" font-size="16px">” (simplified) or “</tspan><tspan x="354.82" y="19.2" font-family="Noto Sans CJK TC" font-weight="300" font-size="16px">關莊</tspan><tspan x="386.82" y="19.2" font-family="Noto Sans" font-size="16px">” (traditional), while the Gua</tspan><tspan x="605.805" y="19.2" font-family="Noto Sans" font-size="16px">-</tspan><tspan x="0" y="38.4" font-family="Noto Sans" font-size="16px">zhuang of Batong Line is “</tspan><tspan x="195.5" y="38.4" font-family="Noto Sans CJK SC" font-weight="300" font-size="16px">管庄</tspan><tspan x="227.5" y="38.4" font-family="Noto Sans" font-size="16px">” (simplified) or “</tspan><tspan x="350.68" y="38.4" font-family="Noto Sans CJK TC" font-weight="300" font-size="16px">管莊</tspan><tspan x="382.68" y="38.4" font-family="Noto Sans" font-size="16px">”(traditional).</tspan></text>
+	</g>
+	<g id="en_Title">
+		<text id="en_Beijing_Subway_Plan" transform="matrix(1 0 0 1 148.6785 88.0476)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="38px">Beijing Subway Plan</tspan><tspan x="209.464" y="45.6" font-family="Noto Sans" font-size="38px">for 2021</tspan></text>
+	</g>
+	<g id="en_NAE">
+		<text id="en_New_Airport" transform="matrix(1 0 0 1 1197.8098 2103.1248)" font-family="Noto Sans" font-size="16px">New Airport North Terminal</text>
+		<text id="en_Cigezhuang" transform="matrix(1 0 0 1 1197.8098 1940.3044)" font-family="Noto Sans" font-size="16px">Cigezhuang</text>
+		
+			<text id="en_New_Airport_Exporess" transform="matrix(1 0 0 1 1222.4412 2025.5232)" fill="#7E77AD" font-family="Noto Sans" font-size="24px">New Airport Express</text>
+		<text id="en_time_of_NAE" transform="matrix(1 0 0 1 1222.4421 2056.6365)" font-family="Noto Sans" font-size="22px">Phase 1 opens 2019</text>
+	</g>
+	<g id="en_AE_x5F_E">
+		
+			<text id="en_time_of_Airport_Express_2_" transform="matrix(1 0 0 1 2128.3337 579.1033)" font-family="Noto Sans" font-size="22px">West extension opens 2019</text>
+	</g>
+	<g id="en_APM">
+		
+			<text id="en_Dongdaqiao_x28_APM_x29__1_" transform="matrix(1 0 0 1 2260.9692 1779.7507)" font-family="Noto Sans" font-size="16px">Dongdaqiao</text>
+		<text id="en_Wantongzhongxin_1_" transform="matrix(1 0 0 1 2324.8181 1811.2175)" font-family="Noto Sans" font-size="16px">Wantongzhongxin</text>
+		<text id="en_Jingguangqiao_1_" transform="matrix(1 0 0 1 2240.4978 1859.7507)" font-family="Noto Sans" font-size="16px">Jingguangqiao</text>
+		<text id="en_Guanghualu_1_" transform="matrix(1 0 0 1 2275.1296 1894.6335)" font-family="Noto Sans" font-size="16px">Guanghualu</text>
+		<text id="en_Hexinqu_1_" transform="matrix(1 0 0 1 2305.0593 1934.6072)" font-family="Noto Sans" font-size="16px">Hexinqu</text>
+		<text id="en_Beijingdianshizhognxin_1_" transform="matrix(1 0 0 1 2316.6218 1967.8396)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Beijing</tspan><tspan x="-77.734" y="19.2" font-family="Noto Sans" font-size="16px">Television Center</tspan></text>
+		<text id="en_Dajiaoting_Zhonglu_2_" transform="matrix(1 0 0 1 2413.6477 1961.1785)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Beijing East</tspan><tspan x="15.055" y="19.2" font-family="Noto Sans" font-size="16px">Railway</tspan><tspan x="17" y="38.4" font-family="Noto Sans" font-size="16px">Station</tspan></text>
+		
+			<text id="en_Dajiaoting_x28_APM_x29__1_" transform="matrix(1 0 0 1 2434.5437 2078.854)" font-family="Noto Sans" font-size="16px">Dajiaoting</text>
+		<text id="en_time_of_Line_17_2_" transform="matrix(1 0 0 1 2234.0911 2119.7996)" font-family="Noto Sans" font-size="22px">Opens 2021</text>
+	</g>
+	<g id="en_M27E">
+		
+			<text id="en_time_of_Changping_Line_2_" transform="matrix(1 0 0 1 624.2517 121.0642)" font-family="Noto Sans" font-size="22px">South extension opens 2020</text>
+	</g>
+	<g id="en_M26E">
+		<text id="en_time_of_Mentougou_Line" transform="matrix(1 0 0 1 129.3 1405.3757)" font-family="Noto Sans" font-size="22px">Extends to Pingguoyuan in 2019</text>
+	</g>
+	<g id="en_YF_x5F_E">
+		<text id="en_Laochengqu_2_" transform="matrix(1 0 0 1 81.8108 2005.5085)" font-family="Noto Sans" font-size="16px">Laochengqu</text>
+		<text id="en_Guce_2_" transform="matrix(1 0 0 1 66.6038 2033.4998)" font-family="Noto Sans" font-size="16px">Guce</text>
+		<text id="en_Zhoukoudianzhen_2_" transform="matrix(1 0 0 1 49.0872 2062.9089)" font-family="Noto Sans" font-size="16px">Zhoukoudianzhen</text>
+		
+			<text id="en_time_of_Yanfang_Line_1_" transform="matrix(1 0 0 1 232.9382 2062.0837)" font-family="Noto Sans" font-size="22px">Branch opens 2020</text>
+	</g>
+	<g id="en_M25E">
+		
+			<text id="en_time_of_Fangshan_Line_2_" transform="matrix(1 0 0 1 511.0662 2061.2839)" font-family="Noto Sans" font-size="22px">North extension opens 2019</text>
+		<text id="en_Yancun_North_1_" transform="matrix(1 0 0 1 370.0857 1988.9617)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Yancun</tspan><tspan x="12.035" y="19.2" font-family="Noto Sans" font-size="16px">East</tspan></text>
+		<text id="en_Xibaijiayao_1_" transform="matrix(1 0 0 1 721.8264 1801.0076)" font-family="Noto Sans" font-size="16px">Xibaijiayao</text>
+		<text id="en_Sihuanlu_2_" transform="matrix(1 0 0 1 848.5168 1741.3484)" font-family="Noto Sans" font-size="16px">Sihuanlu</text>
+	</g>
+	<g id="en_M22">
+		<text id="en_Juhewan_2_" transform="matrix(1 0 0 1 2447.3591 626.6023)" font-family="Noto Sans" font-size="16px">Juhewan</text>
+		<text id="en_Pinggu_1_" transform="matrix(1 0 0 1 2416.0945 661.0701)" font-family="Noto Sans" font-size="16px">Pinggu</text>
+		<text id="en_Pinggu_West_1_" transform="matrix(1 0 0 1 2316.6462 626.6023)" font-family="Noto Sans" font-size="16px">Pinggu West</text>
+		<text id="en_Machangying_1_" transform="matrix(1 0 0 1 2277.53 673.8767)" font-family="Noto Sans" font-size="16px">Machangying</text>
+		<text id="en_Mafang_1_" transform="matrix(1 0 0 1 2321.6082 709.8083)" font-family="Noto Sans" font-size="16px">Mafang</text>
+		<text id="en_Qixinzhuang" transform="matrix(1 0 0 1 2402.1707 747.1833)" font-family="Noto Sans" font-size="16px">Qixinzhuang</text>
+		<text id="en_Yanjiao_North_2_" transform="matrix(1 0 0 1 2383.5828 784.3513)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Yanjiao</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">North</tspan></text>
+		<text id="en_Yanshunlu" transform="matrix(1 0 0 1 2292.5852 796.5808)" font-family="Noto Sans" font-size="16px">Yanshunlu</text>
+		<text id="en_Songzhuang_1_" transform="matrix(1 0 0 1 2238.2458 759.8513)" font-family="Noto Sans" font-size="16px">Xuxinzhuang</text>
+		<text id="en_time_of_Line_22_2_" transform="matrix(1 0 0 1 2140.1697 705.7683)" font-family="Noto Sans" font-size="22px">Opens 2021</text>
+	</g>
+	<g id="en_M19">
+		<text id="en_Xinfadi" transform="matrix(1 0 0 1 974.4832 1714.6335)" font-family="Noto Sans" font-size="16px">Xinfadi</text>
+		<text id="en_Niujie" transform="matrix(1 0 0 1 1083.4104 1466.5691)" font-family="Noto Sans" font-size="16px">Niujie</text>
+		<text id="en_Jinrongjie" transform="matrix(1 0 0 1 1090.4973 1233.7634)" font-family="Noto Sans" font-size="16px">Jinrongjie</text>
+		<text id="en_time_of_Line_19" transform="matrix(1 0 0 1 1197.8103 1844.574)" font-family="Noto Sans" font-size="22px">Opens 2020</text>
+	</g>
+	<g id="en_M17">
+		<text id="en_Zhanqianqu_South" transform="matrix(1 0 0 1 2054.3025 1825.24)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Yizhuang </tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Zhanqianqu South</tspan></text>
+		<text id="en_Ciqu_North" transform="matrix(1 0 0 1 1837.7146 1748.2976)" font-family="Noto Sans" font-size="16px">Ciqu North</text>
+		<text id="en_Beishenshu" transform="matrix(1 0 0 1 1794.113 1710.3835)" font-family="Noto Sans" font-size="16px">Beishenshu</text>
+		<text id="en_Chaoyanggang" transform="matrix(1 0 0 1 1726.9714 1667.9519)" font-family="Noto Sans" font-size="16px">Chaoyanggang</text>
+		<text id="en_Panjiayuan_West" transform="matrix(1 0 0 1 1576.0984 1466.5691)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Panjiayuan</tspan><tspan x="45.344" y="19.2" font-family="Noto Sans" font-size="16px">West</tspan></text>
+		<text id="en_Xiangheyuan" transform="matrix(1 0 0 1 1556.6277 955.0388)" font-family="Noto Sans" font-size="16px">Xiangheyuan</text>
+		<text id="en_Yongshiying" transform="matrix(1 0 0 1 1492.6863 503.572)" font-family="Noto Sans" font-size="16px">Yongshiying</text>
+		<text id="en_Qingheying" transform="matrix(1 0 0 1 1606.7 329.6912)" font-family="Noto Sans" font-size="16px">Qingheying</text>
+		<text id="en_Tiantongyuan_East" transform="matrix(1 0 0 1 1606.7 249.0457)" font-family="Noto Sans" font-size="16px">Tiantongyuan East</text>
+		<text id="en_FSC_South" transform="matrix(1 0 0 1 1606.7 97.2966)" font-family="Noto Sans" font-size="16px">Future Science Park South</text>
+		<text id="en_FSC_North" transform="matrix(1 0 0 1 1606.7 39.283)" font-family="Noto Sans" font-size="16px">Future Science Park North</text>
+		<text id="en_time_of_Line_17" transform="matrix(1 0 0 1 1671.8464 172.0603)" font-family="Noto Sans" font-size="22px">Opens 2020-2021</text>
+	</g>
+	<g id="en_M16E">
+		<text id="en_Wanpingcheng_2_" transform="matrix(1 0 0 1 273.3816 1629.2449)" font-family="Noto Sans" font-size="16px">Wanpingcheng</text>
+		<text id="en_Yushuzhuang_2_" transform="matrix(1 0 0 1 336.4568 1665.9382)" font-family="Noto Sans" font-size="16px">Yushuzhuang</text>
+		<text id="en_Kandan" transform="matrix(1 0 0 1 417.8044 1629.2449)" font-family="Noto Sans" font-size="16px">Kandan</text>
+		<text id="en_Fufengqiao_2_" transform="matrix(1 0 0 1 464.7791 1664.8816)" font-family="Noto Sans" font-size="16px">Fufengqiao</text>
+		<text id="en_Fengyiqiao_South_2_" transform="matrix(1 0 0 1 848.5168 1602.2898)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Fengyiqiao</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">South</tspan></text>
+		<text id="en_Hongliannanli_2_" transform="matrix(1 0 0 1 873.5271 1460.1345)" font-family="Noto Sans" font-size="16px">Hongliannanli</text>
+		<text id="en_EGYP_1_" transform="matrix(1 0 0 1 874.5271 1181.5925)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">East Gate of</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Yuyuantan</tspan><tspan x="0" y="38.4" font-family="Noto Sans" font-size="16px">Park</tspan></text>
+		<text id="en_Ganjiakou_1_" transform="matrix(1 0 0 1 869.5271 1150.8132)" font-family="Noto Sans" font-size="16px">Ganjiakou</text>
+		<text id="en_Wanshousi_2_" transform="matrix(1 0 0 1 608.4988 943.5349)" font-family="Noto Sans" font-size="16px">Wanshousi</text>
+		<text id="en_Wanquanheqiao_1_" transform="matrix(1 0 0 1 544.8552 670.3679)" font-family="Noto Sans" font-size="16px">Wanquanheqiao</text>
+		<text id="en_time_of_Line_16_1_" transform="matrix(1 0 0 1 25.4719 398.2292)" font-family="Noto Sans" font-size="22px">South section opens 2019</text>
+	</g>
+	<g id="en_M14E">
+		<text id="en_Jingfengmen" transform="matrix(1 0 0 1 1043.7454 1518.3835)" font-family="Noto Sans" font-size="16px">Jingfengmen</text>
+		<text id="en_Xitieying_1_" transform="matrix(1 0 0 1 946.8914 1548.4373)" font-family="Noto Sans" font-size="16px">Xitieying</text>
+		<text id="en_Caihuying_1_" transform="matrix(1 0 0 1 882.3708 1514.9294)" font-family="Noto Sans" font-size="16px">Caihuying</text>
+		
+			<text id="en_Lize_Business_District_Lize_Business_1_" transform="matrix(1 0 0 1 756.3792 1498.0466)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Lize Business</tspan><tspan x="46.102" y="19.2" font-family="Noto Sans" font-size="16px">District</tspan></text>
+		<text id="en_Dongguantou_1_" transform="matrix(1 0 0 1 683.0369 1548.4373)" font-family="Noto Sans" font-size="16px">Dongguantou</text>
+		<text id="en_time_of_Line_14" transform="matrix(1 0 0 1 129.8503 1600.2898)" font-family="Noto Sans" font-size="22px">LBD section opens 2019</text>
+	</g>
+	<g id="en_M12">
+		<text id="en_Jiuxianqiao_1_" transform="matrix(1 0 0 1 1980.7566 735.947)" font-family="Noto Sans" font-size="16px">Jiuxianqiao</text>
+		<text id="en_Fangyuanli_1_" transform="matrix(1 0 0 1 1743.8718 772.1355)" font-family="Noto Sans" font-size="16px">Fangyuanli</text>
+		<text id="en_Xibahe" transform="matrix(1 0 0 1 1605.6121 791.1853)" font-family="Noto Sans" font-size="16px">Xibahe</text>
+		<text id="en_Anzhenqiao" transform="matrix(1 0 0 1 1323.0447 786.6853)" font-family="Noto Sans" font-size="16px">Anzhenqiao</text>
+		<text id="en_Madian" transform="matrix(1 0 0 1 1208.4148 824.1853)" font-family="Noto Sans" font-size="16px">Madian</text>
+		<text id="en_Beitaipingzhuang" transform="matrix(1 0 0 1 1171.5793 768.1853)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Beitaiping-</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">zhuang</tspan></text>
+		<text id="en_Suzhouqiao_2_" transform="matrix(1 0 0 1 687.5222 847.033)" font-family="Noto Sans" font-size="16px">Suzhouqiao</text>
+		<text id="en_Yuandalu" transform="matrix(1 0 0 1 429.4177 886.1716)" font-family="Noto Sans" font-size="16px">Yuandalu</text>
+		<text id="en_Sijiqing" transform="matrix(1 0 0 1 379.3552 907.1853)" font-family="Noto Sans" font-size="16px">Sijiqing</text>
+		<text id="en_time_of_Line_12_1_" transform="matrix(1 0 0 1 295.9543 996.0623)" font-family="Noto Sans" font-size="22px">Opens 2020</text>
+		<text id="en_Beigangzi" transform="matrix(1 0 0 1 1919.468 811.2058)" font-family="Noto Sans" font-size="16px">Beigangzi</text>
+	</g>
+	<g id="en_M9E">
+		<text id="en_Zaojunmiao" transform="matrix(1 0 0 1 874.2146 909.3826)" font-family="Noto Sans" font-size="16px">Zaojunmiao</text>
+		<text id="en_Jimenqiao" transform="matrix(1 0 0 1 1019.8801 791.1853)" font-family="Noto Sans" font-size="16px">Jimenqiao</text>
+		<text id="en_Xueyuanqiao" transform="matrix(1 0 0 1 1111.2454 633.6667)" font-family="Noto Sans" font-size="16px">Xueyuanqiao</text>
+		<text id="en_Xueqinglu" transform="matrix(1 0 0 1 1013.4895 519.1174)" font-family="Noto Sans" font-size="16px">Xueqinglu</text>
+		<text id="en_Shangqingqiao_1_" transform="matrix(1 0 0 1 1097.5579 453.6082)" font-family="Noto Sans" font-size="16px">Shangqingqiao</text>
+	</g>
+	<g id="en_M8E">
+		<text id="en_Yinghai" transform="matrix(1 0 0 1 1386.7092 1879.99)" font-family="Noto Sans" font-size="16px">Yinghai</text>
+		<text id="en_Demao" transform="matrix(1 0 0 1 1369.7703 1851.7615)" font-family="Noto Sans" font-size="16px">Demao</text>
+		<text id="en_Wufutang_2_" transform="matrix(1 0 0 1 1332.0105 1823.533)" font-family="Noto Sans" font-size="16px">Wufutang</text>
+		<text id="en_Liuyingmen_1_" transform="matrix(1 0 0 1 1300.3879 1795.3044)" font-family="Noto Sans" font-size="16px">Liuyingmen</text>
+		<text id="en_Xiwadi_1_" transform="matrix(1 0 0 1 1329.7322 1752.821)" font-family="Noto Sans" font-size="16px">Xiwadi</text>
+		<text id="en_Heyi" transform="matrix(1 0 0 1 1257.343 1746.3875)" font-family="Noto Sans" font-size="16px">Heyi</text>
+		<text id="en_Dahongmenqiao_Dahong-" transform="matrix(1 0 0 1 1313.1028 1703.1648)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Dahong-</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">menqiao</tspan></text>
+		<text id="en_Muxiyuanqiao_South_Muxiyuanqiao" transform="matrix(1 0 0 1 1310.5745 1603.5261)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Muxiyuanqiao</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">South</tspan></text>
+		<text id="en_Muxiyuanqiao_North_Muxiyuanqiao" transform="matrix(1 0 0 1 1188.1462 1565.2537)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Muxiyuanqiao</tspan><tspan x="62.422" y="19.2" font-family="Noto Sans" font-size="16px">North</tspan></text>
+		<text id="en_Tianqiao" transform="matrix(1 0 0 1 1311.574 1462.6121)" font-family="Noto Sans" font-size="16px">Tianqiao</text>
+		<text id="en_Wangfujing_North_Wangfujing" transform="matrix(1 0 0 1 1307.6848 1194.3083)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Wangfujing</tspan><tspan x="42.867" y="19.2" font-family="Noto Sans" font-size="16px">North</tspan></text>
+		<text id="en_time_of_Line_8_1_" transform="matrix(1 0 0 1 1401.158 1916.6472)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="22px">Phase 3</tspan><tspan x="0" y="26.4" font-family="Noto Sans" font-size="22px">opens 2018-2020</tspan></text>
+	</g>
+	<g id="en_M7E">
+		<text id="en_Gaoloujin_1_" transform="matrix(1 0 0 1 2408.7078 1649.0496)" font-family="Noto Sans" font-size="16px">Gaoloujin</text>
+		<text id="en_Xiaomazhuang_2_" transform="matrix(1 0 0 1 2330.4087 1610.1609)" font-family="Noto Sans" font-size="16px">Xiaomazhuang</text>
+		<text id="en_Yunjingdonglu_2_" transform="matrix(1 0 0 1 2272.166 1649.0496)" font-family="Noto Sans" font-size="16px">Yunjingdonglu</text>
+		<text id="en_Wanshengnanjie_Xikou_2_" transform="matrix(1 0 0 1 2205.3845 1590.9607)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Wanshengnanjie</tspan><tspan x="42.238" y="19.2" font-family="Noto Sans" font-size="16px">Xikou</tspan></text>
+		<text id="en_Heizhuanghu" transform="matrix(1 0 0 1 2159.2458 1649.0496)" font-family="Noto Sans" font-size="16px">Heizhuanghu</text>
+		<text id="en_Dougezhuang_2_" transform="matrix(1 0 0 1 2097.7988 1610.1609)" font-family="Noto Sans" font-size="16px">Dougezhuang</text>
+		<text id="en_Huangchangcun_1_" transform="matrix(1 0 0 1 1979.5046 1649.0496)" font-family="Noto Sans" font-size="16px">Huangchangcun</text>
+		<text id="en_time_of_Line_7_2_" transform="matrix(1 0 0 1 2045.3254 1679.8601)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="22px">East Extension</tspan><tspan x="0" y="26.4" font-family="Noto Sans" font-size="22px">Opens 2019</tspan></text>
+	</g>
+	<g id="en_M6E">
+		<text id="en_Liaogongzhuang_2_" transform="matrix(1 0 0 1 310.9124 1109.2185)" font-family="Noto Sans" font-size="16px">Liaogongzhuang</text>
+		<text id="en_Xihuangcun_2_" transform="matrix(1 0 0 1 317.3669 1134.4724)" font-family="Noto Sans" font-size="16px">Xihuangcun</text>
+		<text id="en_Pingguoyuannanlu_2_" transform="matrix(1 0 0 1 232.7766 1157.3015)" font-family="Noto Sans" font-size="16px">Pingguoyuannanlu</text>
+		<text id="en_Jin_x27_anqiao_2_" transform="matrix(1 0 0 1 229.1262 1202.4968)" font-family="Noto Sans" font-size="16px">Jin’anqiao</text>
+		<text id="en_time_of_Line_6_2_" transform="matrix(1 0 0 1 2138.6345 1081.7244)" font-family="Noto Sans" font-size="22px">West extension opens 2018</text>
+	</g>
+	<g id="en_M3">
+		<text id="en_Caogezhuang_North" transform="matrix(1 0 0 1 2123.6033 739.9421)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Caogezhuang</tspan><tspan x="59.539" y="19.2" font-family="Noto Sans" font-size="16px">North</tspan></text>
+		<text id="en_Gaoxinzhuang_1_" transform="matrix(1 0 0 1 2257.7117 852.0662)" font-family="Noto Sans" font-size="16px">Gaoxinzhuang</text>
+		<text id="en_Louzizhuang_2_" transform="matrix(1 0 0 1 2195.3572 872.0759)" font-family="Noto Sans" font-size="16px">Louzizhuang</text>
+		<text id="en_Louzizhuangqiao_West_2_" transform="matrix(1 0 0 1 2097.1775 815.8308)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Louzizhuangqiao</tspan><tspan x="45.449" y="19.2" font-family="Noto Sans" font-size="16px">West</tspan></text>
+		<text id="en_Guanzhuanglu_Xikou_2_" transform="matrix(1 0 0 1 2061.1023 878.7576)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Guanzhuanglu</tspan><tspan x="34.41" y="19.2" font-family="Noto Sans" font-size="16px">Xikou</tspan></text>
+		<text id="en_Dongfeng_2_" transform="matrix(1 0 0 1 2033.6277 834.4197)" font-family="Noto Sans" font-size="16px">Dongfeng</text>
+		<text id="en_Dongbazhongjie" transform="matrix(1 0 0 1 1916.9714 938.2039)" font-family="Noto Sans" font-size="16px">Dongbazhongjie</text>
+		<text id="en_Pingfangcun" transform="matrix(1 0 0 1 1945.7673 974.4304)" font-family="Noto Sans" font-size="16px">Pingfangcun</text>
+		<text id="en_CSC" transform="matrix(1 0 0 1 2020.9685 1036.4519)" font-family="Noto Sans" font-size="16px">Chaoyang Sports Center</text>
+		<text id="en_XRS" transform="matrix(1 0 0 1 1915.739 1002.4343)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Xinghuo</tspan><tspan x="-51.352" y="19.2" font-family="Noto Sans" font-size="16px">Railway Station</tspan></text>
+		<text id="en_Shifoying" transform="matrix(1 0 0 1 1862.115 1078.4998)" font-family="Noto Sans" font-size="16px">Shifoying</text>
+		<text id="en_Worker_x27_s_Statium" transform="matrix(1 0 0 1 1590.0339 1027.8396)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Worker’s</tspan><tspan x="7.531" y="19.2" font-family="Noto Sans" font-size="16px">Statium</tspan></text>
+		<text id="en_Zhanlanlu" transform="matrix(1 0 0 1 919.4656 1119.488)" font-family="Noto Sans" font-size="16px">Zhanlanlu</text>
+		<text id="en_Hangtianqiao" transform="matrix(1 0 0 1 659.676 1154.9451)" font-family="Noto Sans" font-size="16px">Hangtianqiao</text>
+		<text id="en_Enjidongjie" transform="matrix(1 0 0 1 535.8474 1154.9451)" font-family="Noto Sans" font-size="16px">Enjidongjie</text>
+		<text id="en_Yongdinglu" transform="matrix(1 0 0 1 487.4573 1118.488)" font-family="Noto Sans" font-size="16px">Yongdinglu</text>
+		<text id="en_Tiancun_2_" transform="matrix(1 0 0 1 404.8616 1081.7244)" font-family="Noto Sans" font-size="16px">Tiancun</text>
+		<text id="en_time_of_Line_3" transform="matrix(1 0 0 1 2141.321 950.9138)" font-family="Noto Sans" font-size="22px">Phase 1 opens 2021</text>
+	</g>
+	<g id="en_BT_x5F_E">
+		<text id="en_US_2_" transform="matrix(1 0 0 1 2366.7043 1729.9812)" font-family="Noto Sans" font-size="16px">Universal Studios</text>
+		<text id="en_Shiyuan" transform="matrix(1 0 0 1 2413.3582 1674.4031)" font-family="Noto Sans" font-size="16px">Shiyuan</text>
+		<text id="en_time_of_Batong_Line" transform="matrix(1 0 0 1 2133.3147 1453.1814)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="22px">South Extension</tspan><tspan x="0" y="26.4" font-family="Noto Sans" font-size="22px">Opens 2019</tspan></text>
+	</g>
+	<g id="en_AE">
+		<text id="en_BCIA_1_" transform="matrix(1 0 0 1 2274.7327 417.6208)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Beijing Capital</tspan><tspan x="-23.781" y="19.2" font-family="Noto Sans" font-size="16px">International Airport</tspan></text>
+		<text id="en_Terminal_2_1_" transform="matrix(1 0 0 1 2208.9509 371.2478)" font-family="Noto Sans" font-size="16px">Terminal 2</text>
+		<text id="en_Terminal_3_1_" transform="matrix(1 0 0 1 2231.114 475.907)" font-family="Noto Sans" font-size="16px">Terminal 3</text>
+		
+			<text id="en_Airport_Express_1_" transform="matrix(1 0 0 1 2128.3328 548.4197)" fill="#A292B3" font-family="Noto Sans" font-size="24px">Airport Express</text>
+	</g>
+	<g id="en_XJ">
+		<text id="en_Fragrant_Hills_1_" transform="matrix(1 0 0 1 181.0935 625.3894)" font-family="Noto Sans" font-size="16px">Fragrant Hills</text>
+		<text id="en_Botanical_Gardens_1_" transform="matrix(1 0 0 1 326.6257 587.9128)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Botanical</tspan><tspan x="6.816" y="19.2" font-family="Noto Sans" font-size="16px">Garden</tspan></text>
+		<text id="en_Wan_x27_an_1_" transform="matrix(1 0 0 1 336.0657 657.1921)" font-family="Noto Sans" font-size="16px">Wan’an</text>
+		<text id="en_Chapeng_1_" transform="matrix(1 0 0 1 406.0466 689.8542)" font-family="Noto Sans" font-size="16px">Chapeng</text>
+		<text id="en_WGSP_1_" transform="matrix(1 0 0 1 442.8943 626.9695)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">West Gate of</tspan><tspan x="-10.289" y="19.2" font-family="Noto Sans" font-size="16px">Summer Palace</tspan></text>
+		
+			<text id="en_Xijiao_Line_1_" transform="matrix(1 0 0 1 250.8587 703.2605)" fill="#E1261C" font-family="Noto Sans" font-size="24px">Xijiao Line</text>
+	</g>
+	<g id="en_M27">
+		<text id="en_Life_Science_Park_2_" transform="matrix(1 0 0 1 824.8196 207.0837)" font-family="Noto Sans" font-size="16px">Life Science Park</text>
+		<text id="en_Gonghuacheng_2_" transform="matrix(1 0 0 1 881.7043 147.8396)" font-family="Noto Sans" font-size="16px">Gonghuacheng</text>
+		<text id="en_Shahe_2_" transform="matrix(1 0 0 1 945.0989 117.9431)" font-family="Noto Sans" font-size="16px">Shahe</text>
+		<text id="en_SUP_1_" transform="matrix(1 0 0 1 1009.8821 86.0466)" font-family="Noto Sans" font-size="16px">Shahe University Park</text>
+		<text id="en_Nanshao_2_" transform="matrix(1 0 0 1 1019.0437 45.7771)" font-family="Noto Sans" font-size="16px">Nanshao</text>
+		<text id="en_Beishaowa" transform="matrix(1 0 0 1 973.4641 4.2126)" font-family="Noto Sans" font-size="16px">Beishaowa</text>
+		<text id="en_Changping_Dongguan" transform="matrix(1 0 0 1 884.5247 -15.5881)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Changping</tspan><tspan x="1.359" y="19.2" font-family="Noto Sans" font-size="16px">Dongguan</tspan></text>
+		<text id="en_Changping_1_" transform="matrix(1 0 0 1 827.7063 39.283)" font-family="Noto Sans" font-size="16px">Changping</text>
+		<text id="en_Ming_Tombs" transform="matrix(1 0 0 1 764.6833 3.6121)" font-family="Noto Sans" font-size="16px">Ming Tombs</text>
+		<text id="en_Changping_Xishankou" transform="matrix(1 0 0 1 679.9968 39.283)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Changping</tspan><tspan x="4.375" y="19.2" font-family="Noto Sans" font-size="16px">Xishankou</tspan></text>
+		
+			<text id="en_Changping_Line_2_" transform="matrix(1 0 0 1 681.9963 90.8865)" fill="#DE85BB" font-family="Noto Sans" font-size="24px">Changping Line</text>
+	</g>
+	<g id="en_M26">
+		<text id="en_Shichang" transform="matrix(1 0 0 1 33.0622 1304.6462)" font-family="Noto Sans" font-size="16px">Shichang</text>
+		<text id="en_Xiaoyuan_2_" transform="matrix(1 0 0 1 119.5256 1335.7742)" font-family="Noto Sans" font-size="16px">Xiaoyuan</text>
+		<text id="en_Liyuanzhuang" transform="matrix(1 0 0 1 74.8713 1275.2859)" font-family="Noto Sans" font-size="16px">Liyuanzhuang</text>
+		<text id="en_Shang_x27_an" transform="matrix(1 0 0 1 111.262 1242.6814)" font-family="Noto Sans" font-size="16px">Shang’an</text>
+		<text id="en_Qiaohuying" transform="matrix(1 0 0 1 94.2385 1209.6248)" font-family="Noto Sans" font-size="16px">Qiaohuying</text>
+		<text id="en_Sidaoqiao" transform="matrix(1 0 0 1 127.9089 1174.5759)" font-family="Noto Sans" font-size="16px">Sidaoqiao</text>
+		
+			<text id="en_Mentougou_Line" transform="matrix(1 0 0 1 130.4006 1374.6033)" fill="#A65A2A" font-family="Noto Sans" font-size="24px">S1 Line</text>
+	</g>
+	<g id="en_YF">
+		<text id="en_Zicaowu" transform="matrix(1 0 0 1 333.7961 1947.8396)" font-family="Noto Sans" font-size="16px">Zicaowu</text>
+		<text id="en_Yancun_1_" transform="matrix(1 0 0 1 289.621 1985.3044)" font-family="Noto Sans" font-size="16px">Yancun</text>
+		<text id="en_Xingcheng_1_" transform="matrix(1 0 0 1 230.0083 1947.8396)" font-family="Noto Sans" font-size="16px">Xingcheng</text>
+		<text id="en_Dashihe_East" transform="matrix(1 0 0 1 191.6419 1985.3044)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Dashihe</tspan><tspan x="14.969" y="19.2" font-family="Noto Sans" font-size="16px">East</tspan></text>
+		<text id="en_Magezhuang" transform="matrix(1 0 0 1 125.5563 1947.8396)" font-family="Noto Sans" font-size="16px">Magezhuang</text>
+		<text id="en_Raolefu_1_" transform="matrix(1 0 0 1 98.6428 1985.3044)" font-family="Noto Sans" font-size="16px">Raolefu</text>
+		<text id="en_Fangshan_Chengguan" transform="matrix(1 0 0 1 74.3108 1919.0085)" font-family="Noto Sans" font-size="16px">Fangshan Chengguan</text>
+		<text id="en_Yanshan" transform="matrix(1 0 0 1 56.9163 1891.7253)" font-family="Noto Sans" font-size="16px">Yanshan</text>
+		
+			<text id="en_Yanfang_Line_1_" transform="matrix(1 0 0 1 232.9382 2034.6892)" fill="#DC6016" font-family="Noto Sans" font-size="24px">Yanfang Line</text>
+	</g>
+	<g id="en_M25">
+		<text id="en_Suzhuang_1_" transform="matrix(1 0 0 1 410.0061 1959.1902)" font-family="Noto Sans" font-size="16px">Suzhuang</text>
+		<text id="en_Liangxiangnanguan_1_" transform="matrix(1 0 0 1 462.2131 1995.0691)" font-family="Noto Sans" font-size="16px">Liangxiangnanguan</text>
+		<text id="en_LUTW_1_" transform="matrix(1 0 0 1 547.4885 1975.7566)" font-family="Noto Sans" font-size="16px">Liangxiang University Town West  </text>
+		<text id="en_LUT_1_" transform="matrix(1 0 0 1 551.114 1949.4089)" font-family="Noto Sans" font-size="16px">Liangxiang University Town</text>
+		<text id="en_LUTN_1_" transform="matrix(1 0 0 1 554.7087 1921.9421)" font-family="Noto Sans" font-size="16px">Liangxiang University Town North</text>
+		<text id="en_Guangyangcheng_1_" transform="matrix(1 0 0 1 554.7087 1894.4753)" font-family="Noto Sans" font-size="16px">Guangyangcheng</text>
+		<text id="en_Libafang_1_" transform="matrix(1 0 0 1 471.9729 1867.0085)" font-family="Noto Sans" font-size="16px">Libafang</text>
+		<text id="en_Changyang_1_" transform="matrix(1 0 0 1 604.7996 1867.0085)" font-family="Noto Sans" font-size="16px">Changyang</text>
+		<text id="en_Daotian_1_" transform="matrix(1 0 0 1 525.262 1835.9617)" font-family="Noto Sans" font-size="16px">Daotian</text>
+		<text id="en_Dabaotai_1_" transform="matrix(1 0 0 1 640.8665 1830.0544)" font-family="Noto Sans" font-size="16px">Dabaotai</text>
+		
+			<text id="en_Fangshan_Line_1_" transform="matrix(1 0 0 1 511.0662 2033.8894)" fill="#DC6016" font-family="Noto Sans" font-size="24px">Fangshan Line</text>
+	</g>
+	<g id="en_M24">
+		<text id="en_YRS_1_" transform="matrix(1 0 0 1 2026.5945 1768.3875)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Yizhuang</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Railway Station</tspan></text>
+		<text id="en_Ciqu" transform="matrix(1 0 0 1 1920.0789 1782.2585)" font-family="Noto Sans" font-size="16px">Ciqu</text>
+		<text id="en_Ciqu_South" transform="matrix(1 0 0 1 1904.074 1852.4246)" font-family="Noto Sans" font-size="16px">Ciqu South</text>
+		<text id="en_Jinghailu" transform="matrix(1 0 0 1 1857.4333 1884.7742)" font-family="Noto Sans" font-size="16px">Jinghailu</text>
+		<text id="en_Tongjinanlu" transform="matrix(1 0 0 1 1811.7927 1919.1228)" font-family="Noto Sans" font-size="16px">Tongjinanlu</text>
+		<text id="en_Rongchangdongjie" transform="matrix(1 0 0 1 1609.5486 1901.7253)" font-family="Noto Sans" font-size="16px">Rongchangdongjie</text>
+		<text id="en_Rongjingdongjie" transform="matrix(1 0 0 1 1579.1541 1858.406)" font-family="Noto Sans" font-size="16px">Rongjingdongjie</text>
+		<text id="en_Wanyuanjie" transform="matrix(1 0 0 1 1673.8455 1795.907)" font-family="Noto Sans" font-size="16px">Wanyuanjie</text>
+		<text id="en_YCP" transform="matrix(1 0 0 1 1601.0686 1742.6726)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Yizhuang</tspan><tspan x="-12.098" y="19.2" font-family="Noto Sans" font-size="16px">Culture Park</tspan></text>
+		<text id="en_Yizhuangqiao" transform="matrix(1 0 0 1 1452.7458 1832.907)" font-family="Noto Sans" font-size="16px">Yizhuangqiao</text>
+		<text id="en_Jiugong" transform="matrix(1 0 0 1 1452.3582 1795.8093)" font-family="Noto Sans" font-size="16px">Jiugong</text>
+		<text id="en_Xiaohongmen" transform="matrix(1 0 0 1 1480.4763 1734.4812)" font-family="Noto Sans" font-size="16px">Xiaohongmen</text>
+		<text id="en_Xiaocun" transform="matrix(1 0 0 1 1444.9978 1707.1042)" font-family="Noto Sans" font-size="16px">Xiaocun</text>
+		
+			<text id="en_Yizhuang_Line" transform="matrix(1 0 0 1 1687.6824 1959.1902)" fill="#D6006E" font-family="Noto Sans" font-size="24px">Yizhuang Line</text>
+	</g>
+	<g id="en_M16">
+		<text id="en_Nongdananlu" transform="matrix(1 0 0 1 689.7439 471.2488)" font-family="Noto Sans" font-size="16px">Nongdananlu</text>
+		<text id="en_Malianwa_1_" transform="matrix(1 0 0 1 689.887 426.238)" font-family="Noto Sans" font-size="16px">Malianwa</text>
+		<text id="en_Xibeiwang_1_" transform="matrix(1 0 0 1 673.9216 375.4128)" font-family="Noto Sans" font-size="16px">Xibeiwang</text>
+		<text id="en_Yongfeng_South_1_" transform="matrix(1 0 0 1 643.615 341.0994)" font-family="Noto Sans" font-size="16px">Yongfeng South</text>
+		<text id="en_Yongfeng_1_" transform="matrix(1 0 0 1 563.3108 309.7859)" font-family="Noto Sans" font-size="16px">Yongfeng</text>
+		<text id="en_Tundian_1_" transform="matrix(1 0 0 1 498.1877 346.7244)" font-family="Noto Sans" font-size="16px">Tundian</text>
+		<text id="en_Daoxianghulu_1_" transform="matrix(1 0 0 1 405.4983 309.7859)" font-family="Noto Sans" font-size="16px">Daoxianghulu</text>
+		<text id="en_Wenyanglu_1_" transform="matrix(1 0 0 1 345.1409 346.7244)" font-family="Noto Sans" font-size="16px">Wenyanglu</text>
+		<text id="en_Beianhe_1_" transform="matrix(1 0 0 1 286.0842 309.7859)" font-family="Noto Sans" font-size="16px">Beianhe</text>
+	</g>
+	<g id="en_M15">
+		<text id="en_Fengbo_2_" transform="matrix(1 0 0 1 2348.988 265.4041)" font-family="Noto Sans" font-size="16px">Fengbo</text>
+		<text id="en_Shunyi_2_" transform="matrix(1 0 0 1 2296.49 231.031)" font-family="Noto Sans" font-size="16px">Shunyi</text>
+		<text id="en_Shimen_2_" transform="matrix(1 0 0 1 2238.0994 265.4041)" font-family="Noto Sans" font-size="16px">Shimen</text>
+		<text id="en_Nanfaxin_2_" transform="matrix(1 0 0 1 2177.0212 231.031)" font-family="Noto Sans" font-size="16px">Nanfaxin</text>
+		<text id="en_Houshayu_2_" transform="matrix(1 0 0 1 2031.0759 268.9636)" font-family="Noto Sans" font-size="16px">Houshayu</text>
+		<text id="en_Hualikan_1_" transform="matrix(1 0 0 1 2010.4001 319.5183)" font-family="Noto Sans" font-size="16px">Hualikan</text>
+		<text id="en_CIEC_2_" transform="matrix(1 0 0 1 1908.9978 358.7205)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">China International</tspan><tspan x="15.906" y="19.2" font-family="Noto Sans" font-size="16px">Exhibition Center</tspan></text>
+		<text id="en_Sunhe_1_" transform="matrix(1 0 0 1 1989.6599 418.238)" font-family="Noto Sans" font-size="16px">Sunhe</text>
+		<text id="en_Maquanying_2_" transform="matrix(1 0 0 1 1929.863 473.3269)" font-family="Noto Sans" font-size="16px">Maquanying</text>
+		<text id="en_Cuigezhuang_2_" transform="matrix(1 0 0 1 1895.7595 514.9089)" font-family="Noto Sans" font-size="16px">Cuigezhuang</text>
+		<text id="en_Wangjing_East_1_" transform="matrix(1 0 0 1 1870.9929 611.9441)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Wangjing</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">East</tspan></text>
+		
+			<text id="en_Guanzhuang__x28_15_x29__1_" transform="matrix(1 0 0 1 1456.8127 559.2859)" font-family="Noto Sans" font-size="16px">Guanzhuang(*)</text>
+		<text id="en_Anlilu_1_" transform="matrix(1 0 0 1 1348.0354 563.1755)" font-family="Noto Sans" font-size="16px">Anlilu</text>
+		<text id="en_Beishatan_1_" transform="matrix(1 0 0 1 1172.8679 593.4705)" font-family="Noto Sans" font-size="16px">Beishatan</text>
+		<text id="en_Liudaokou_1_" transform="matrix(1 0 0 1 1015.8567 593.7146)" font-family="Noto Sans" font-size="16px">Liudaokou</text>
+	</g>
+	<g id="en_M14_1_">
+		<text id="en_Shangezhuang_2_" transform="matrix(1 0 0 1 1766.8865 427.572)" font-family="Noto Sans" font-size="16px">Shangezhuang</text>
+		<text id="en_Laiguangying_2_" transform="matrix(1 0 0 1 1665.3201 485.7205)" font-family="Noto Sans" font-size="16px">Laiguangying</text>
+		<text id="en_Donghuqu_2_" transform="matrix(1 0 0 1 1686.4138 536.7097)" font-family="Noto Sans" font-size="16px">Donghuqu</text>
+		<text id="en_Wangjing_2_" transform="matrix(1 0 0 1 1714.8943 622.3894)" font-family="Noto Sans" font-size="16px">Wangjing</text>
+		<text id="en_Futong" transform="matrix(1 0 0 1 1752.5271 652.9333)" font-family="Noto Sans" font-size="16px">Futong</text>
+		<text id="en_Wangjing_South" transform="matrix(1 0 0 1 1710.7322 686.6072)" font-family="Noto Sans" font-size="16px">Wangjing South</text>
+		<text id="en_Gaojiayuan_2_" transform="matrix(1 0 0 1 1883.3074 723.0105)" font-family="Noto Sans" font-size="16px">Gaojiayuan</text>
+		<text id="en_Jiangtai_1_" transform="matrix(1 0 0 1 1833.2761 846.0056)" font-family="Noto Sans" font-size="16px">Jiangtai</text>
+		<text id="en_Dongfengbeiqiao_2_" transform="matrix(1 0 0 1 1885.074 902.1853)" font-family="Noto Sans" font-size="16px">Dongfengbeiqiao</text>
+		<text id="en_Zaoying_1_" transform="matrix(1 0 0 1 1774.0808 945.366)" font-family="Noto Sans" font-size="16px">Zaoying</text>
+		<text id="en_Chaoyang_Park_1_" transform="matrix(1 0 0 1 1758.7908 1074.4998)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Chaoyang</tspan><tspan x="41.711" y="19.2" font-family="Noto Sans" font-size="16px">Park</tspan></text>
+		<text id="en_Hongmiao_2_" transform="matrix(1 0 0 1 1751.2986 1206.6482)" font-family="Noto Sans" font-size="16px">Hongmiao</text>
+		<text id="en_Pingleyuan_1_" transform="matrix(1 0 0 1 1851.3435 1440.9783)" font-family="Noto Sans" font-size="16px">Pingleyuan</text>
+		<text id="en_West_Gate_of_BUT" transform="matrix(1 0 0 1 1851.344 1485.1345)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Beigongda</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Ximen</tspan></text>
+		<text id="en_Fangzhuang" transform="matrix(1 0 0 1 1529.1877 1548.4373)" font-family="Noto Sans" font-size="16px">Fangzhuang</text>
+		<text id="en_Jingtai" transform="matrix(1 0 0 1 1342.3992 1514.9294)" font-family="Noto Sans" font-size="16px">Jingtai</text>
+		<text id="en_Yongdingmenwai" transform="matrix(1 0 0 1 1307.637 1546.4197)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Yongding-</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">menwai</tspan></text>
+		<text id="en_Taoranqiao" transform="matrix(1 0 0 1 1199.0769 1514.9294)" font-family="Noto Sans" font-size="16px">Taoranqiao</text>
+		<text id="en_Dajing_2_" transform="matrix(1 0 0 1 497.6677 1513.9294)" font-family="Noto Sans" font-size="16px">Dajing</text>
+		<text id="en_Guozhuangzi_1_" transform="matrix(1 0 0 1 382.3591 1516.9041)" font-family="Noto Sans" font-size="16px">Guozhuangzi</text>
+		<text id="en_Dawayao_1_" transform="matrix(1 0 0 1 307.1013 1548.4373)" font-family="Noto Sans" font-size="16px">Dawayao</text>
+		<text id="en_Garden_Expo_Park" transform="matrix(1 0 0 1 189.2903 1494.113)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Garden Expo</tspan><tspan x="31.609" y="19.2" font-family="Noto Sans" font-size="16px">Park</tspan></text>
+		<text id="en_Zhangguozhuang" transform="matrix(1 0 0 1 102.0232 1548.4373)" font-family="Noto Sans" font-size="16px">Zhangguozhuang</text>
+	</g>
+	<g id="en_M13">
+		<text id="en_Liufang_2_" transform="matrix(1 0 0 1 1505.1658 855.3289)" font-family="Noto Sans" font-size="16px">Liufang</text>
+		<text id="en_Guangximen_1_" transform="matrix(1 0 0 1 1472.3679 817.6433)" font-family="Noto Sans" font-size="16px">Guangximen</text>
+		<text id="en_Wangjing_West_1_" transform="matrix(1 0 0 1 1624.3591 595.1111)" font-family="Noto Sans" font-size="16px">Wangjing West</text>
+		<text id="en_Beiyuan_2_" transform="matrix(1 0 0 1 1508.6013 368.3474)" font-family="Noto Sans" font-size="16px">Beiyuan</text>
+		<text id="en_Huilongguan_2_" transform="matrix(1 0 0 1 1102.217 276.5837)" font-family="Noto Sans" font-size="16px">Huilongguan</text>
+		<text id="en_Longze_1_" transform="matrix(1 0 0 1 1045.3328 243.4207)" font-family="Noto Sans" font-size="16px">Longze</text>
+		<text id="en_Xi_x27_erqi_2_" transform="matrix(1 0 0 1 878.3958 350.6091)" font-family="Noto Sans" font-size="16px">Xi’erqi</text>
+		<text id="en_Shangdi_1_" transform="matrix(1 0 0 1 887.0081 475.907)" font-family="Noto Sans" font-size="16px">Shangdi</text>
+		<text id="en_Wudaokou_1_" transform="matrix(1 0 0 1 990.7795 638.8425)" font-family="Noto Sans" font-size="16px">Wudaokou</text>
+		<text id="en_Dazhongsi_1_" transform="matrix(1 0 0 1 914.0061 817.6433)" font-family="Noto Sans" font-size="16px">Dazhongsi</text>
+	</g>
+	<g id="en_M10">
+		<text id="en_Huoqiying" transform="matrix(1 0 0 1 504.2185 791.1853)" font-family="Noto Sans" font-size="16px">Huoqiying</text>
+		<text id="en_Changchunqiao" transform="matrix(1 0 0 1 468.7542 858.8113)" font-family="Noto Sans" font-size="16px">Changchunqiao</text>
+		<text id="en_Chedaogou" transform="matrix(1 0 0 1 494.6951 966.8054)" font-family="Noto Sans" font-size="16px">Chedaogou</text>
+		<text id="en_Xidiaoyutai_2_" transform="matrix(1 0 0 1 621.8665 1119.488)" font-family="Noto Sans" font-size="16px">Xidiaoyutai</text>
+		<text id="en_Lianhuaqiao_1_" transform="matrix(1 0 0 1 564.5642 1348.1296)" font-family="Noto Sans" font-size="16px">Lianhuaqiao</text>
+		<text id="en_Xiju" transform="matrix(1 0 0 1 675.6321 1519.4119)" font-family="Noto Sans" font-size="16px">Xiju</text>
+		<text id="en_Niwa" transform="matrix(1 0 0 1 681.0071 1591.8113)" font-family="Noto Sans" font-size="16px">Niwa</text>
+		<text id="en_FRS" transform="matrix(1 0 0 1 687.6667 1667.9519)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Fengtai</tspan><tspan x="-29.055" y="19.2" font-family="Noto Sans" font-size="16px">Railway Station</tspan></text>
+		<text id="en_Shoujingmao" transform="matrix(1 0 0 1 843.8005 1675.4031)" font-family="Noto Sans" font-size="16px">Shoujingmao</text>
+		<text id="en_Jijiamiao_2_" transform="matrix(1 0 0 1 918.6448 1641.0876)" font-family="Noto Sans" font-size="16px">Jijiamiao</text>
+		<text id="en_Caoqiao_2_" transform="matrix(1 0 0 1 1044.1799 1644.3992)" font-family="Noto Sans" font-size="16px">Caoqiao</text>
+		<text id="en_Jiaomen_East_1_" transform="matrix(1 0 0 1 1211.3933 1675.6736)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Jiaomen</tspan><tspan x="14.855" y="19.2" font-family="Noto Sans" font-size="16px">East</tspan></text>
+		<text id="en_Dahongmen" transform="matrix(1 0 0 1 1307.887 1643.6208)" font-family="Noto Sans" font-size="16px">Dahongmen</text>
+		<text id="en_Shiliuzhuang" transform="matrix(1 0 0 1 1317.4734 1677.4167)" font-family="Noto Sans" font-size="16px">Shiliuzhuang</text>
+		<text id="en_Chengshousi" transform="matrix(1 0 0 1 1486.1897 1641.5359)" font-family="Noto Sans" font-size="16px">Chengshousi</text>
+		<text id="en_Fenzhongsi" transform="matrix(1 0 0 1 1578.8455 1617.7507)" font-family="Noto Sans" font-size="16px">Fenzhongsi</text>
+		<text id="en_Shilihe" transform="matrix(1 0 0 1 1665.407 1546.4197)" font-family="Noto Sans" font-size="16px">Shilihe</text>
+		<text id="en_Panjiayuan_2_" transform="matrix(1 0 0 1 1738.4685 1494.3806)" font-family="Noto Sans" font-size="16px">Panjiayuan</text>
+		<text id="en_Jinsong_2_" transform="matrix(1 0 0 1 1739.4187 1450.5554)" font-family="Noto Sans" font-size="16px">Jinsong</text>
+		<text id="en_Jintaixizhao_1_" transform="matrix(1 0 0 1 1739.4187 1181.0017)" font-family="Noto Sans" font-size="16px">Jintaixizhao</text>
+		<text id="en_Tuanjiehu_1_" transform="matrix(1 0 0 1 1736.2781 1047.6882)" font-family="Noto Sans" font-size="16px">Tuanjiehu</text>
+		<text id="en_AEC_1_" transform="matrix(1 0 0 1 1738.2771 974.1296)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Agricultural</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Exhibition</tspan><tspan x="0" y="38.4" font-family="Noto Sans" font-size="16px">Center</tspan></text>
+		<text id="en_Liangmaqiao_2_" transform="matrix(1 0 0 1 1738.9636 897.8113)" font-family="Noto Sans" font-size="16px">Liangmaqiao</text>
+		<text id="en_Sanyuanqiao_2_" transform="matrix(1 0 0 1 1736.2781 818.6433)" font-family="Noto Sans" font-size="16px">Sanyuanqiao</text>
+		<text id="en_Taiyanggong" transform="matrix(1 0 0 1 1672.1951 709.2605)" font-family="Noto Sans" font-size="16px">Taiyanggong</text>
+		<text id="en_Shaoyaoju" transform="matrix(1 0 0 1 1501.0686 708.2605)" font-family="Noto Sans" font-size="16px">Shaoyaoju</text>
+		<text id="en_Anzhenmen" transform="matrix(1 0 0 1 1322.4192 703.8914)" font-family="Noto Sans" font-size="16px">Anzhenmen</text>
+		<text id="en_Jiandemen" transform="matrix(1 0 0 1 1196.5286 738.8425)" font-family="Noto Sans" font-size="16px">Jiandemen</text>
+		<text id="en_Mudanyuan_1_" transform="matrix(1 0 0 1 1119.6887 703.8689)" font-family="Noto Sans" font-size="16px">Mudanyuan</text>
+		<text id="en_Xitucheng_1_" transform="matrix(1 0 0 1 1019.3801 735.8425)" font-family="Noto Sans" font-size="16px">Xitucheng</text>
+		<text id="en_Zhichunlu" transform="matrix(1 0 0 1 910.1882 736.5085)" font-family="Noto Sans" font-size="16px">Zhichunlu</text>
+		<text id="en_Zhichunli_1_" transform="matrix(1 0 0 1 857.0408 703.8914)" font-family="Noto Sans" font-size="16px">Zhichunli</text>
+		<text id="en_Suzhoujie_1_" transform="matrix(1 0 0 1 685.5378 735.5613)" font-family="Noto Sans" font-size="16px">Suzhoujie</text>
+		<text id="en_Bagou" transform="matrix(1 0 0 1 600.325 703.2605)" font-family="Noto Sans" font-size="16px">Bagou</text>
+	</g>
+	<g id="en_M9">
+		<text id="en_Guogongzhuang_1_" transform="matrix(1 0 0 1 489.552 1805.3513)" font-family="Noto Sans" font-size="16px">Guogongzhuang</text>
+		<text id="en_Keyilu_2_" transform="matrix(1 0 0 1 636.8665 1712.3835)" font-family="Noto Sans" font-size="16px">Keyilu</text>
+		<text id="en_FSP_1_" transform="matrix(1 0 0 1 450.9749 1757.1296)" font-family="Noto Sans" font-size="16px">Fengtai Science Park</text>
+		<text id="en_Fengtainanlu_2_" transform="matrix(1 0 0 1 521.6697 1637.1316)" font-family="Noto Sans" font-size="16px">Fengtainanlu</text>
+		<text id="en_Fengtaidongdajie_1_" transform="matrix(1 0 0 1 557.4734 1582.5613)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Fengtai-</tspan><tspan x="-14.266" y="19.2" font-family="Noto Sans" font-size="16px">dongdajie</tspan></text>
+		<text id="en_Qilizhuang_1_" transform="matrix(1 0 0 1 537.6765 1547.5427)" font-family="Noto Sans" font-size="16px">Qilizhuang</text>
+		<text id="en_Lishuiqiao_1_" transform="matrix(1 0 0 1 595.0486 1425.8894)" font-family="Noto Sans" font-size="16px">Liuliqiao</text>
+		<text id="en_Lishuiqiao_East" transform="matrix(1 0 0 1 730.1814 1423.7273)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Liuliqiao</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">East</tspan></text>
+		<text id="en_Baiduizi_2_" transform="matrix(1 0 0 1 728.1619 1122.488)" font-family="Noto Sans" font-size="16px">Baiduizi</text>
+	</g>
+	<g id="en_M8">
+		<text id="en_National_Art_Museum_2_" transform="matrix(1 0 0 1 1329.9583 1145.9451)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">National</tspan><tspan x="-29.008" y="19.2" font-family="Noto Sans" font-size="16px">Art Museum</tspan></text>
+		<text id="en_Shichahai_1_" transform="matrix(1 0 0 1 1203.0154 989.9587)" font-family="Noto Sans" font-size="16px">Shichahai</text>
+		<text id="en_Andelibeijie_1_" transform="matrix(1 0 0 1 1201.9504 855.3289)" font-family="Noto Sans" font-size="16px">Andelibeijie</text>
+		<text id="en_Anhuaqiao_1_" transform="matrix(1 0 0 1 1308.2366 820.489)" font-family="Noto Sans" font-size="16px">Anhuaqiao</text>
+		<text id="en_Beitucheng_1_" transform="matrix(1 0 0 1 1306.8918 736.5085)" font-family="Noto Sans" font-size="16px">Beitucheng</text>
+		<text id="en_Olympic_Green_2_" transform="matrix(1 0 0 1 1306.8918 593.7146)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Olympic</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Green</tspan></text>
+		<text id="en_OSC_2_" transform="matrix(1 0 0 1 1227.7927 651.9441)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Olympic</tspan><tspan x="-41.555" y="19.2" font-family="Noto Sans" font-size="16px">Sports Center</tspan></text>
+		<text id="en_SGFP_1_" transform="matrix(1 0 0 1 1185.5129 511.5125)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">South Gate of</tspan><tspan x="17.914" y="19.2" font-family="Noto Sans" font-size="16px">Forest Park</tspan></text>
+		<text id="en_Lincuiqiao_1_" transform="matrix(1 0 0 1 1280.365 427.572)" font-family="Noto Sans" font-size="16px">Lincuiqiao</text>
+		<text id="en_Yongtaizhuang_1_" transform="matrix(1 0 0 1 1111.405 407.1453)" font-family="Noto Sans" font-size="16px">Yongtaizhuang</text>
+		<text id="en_Xixiaokou_1_" transform="matrix(1 0 0 1 1247.5852 358.7205)" font-family="Noto Sans" font-size="16px">Xixiaokou</text>
+		<text id="en_Yuxin_1_" transform="matrix(1 0 0 1 1183.3425 310.448)" font-family="Noto Sans" font-size="16px">Yuxin</text>
+		<text id="en_Huoying_2_" transform="matrix(1 0 0 1 1188.6931 246.9636)" font-family="Noto Sans" font-size="16px">Huoying</text>
+		<text id="en_Huilongguan_Dongdajie_2_" transform="matrix(1 0 0 1 1285.8376 199.1726)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Huilongguan</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Dongdajie</tspan></text>
+		<text id="en_Pingxifu_1_" transform="matrix(1 0 0 1 1194.0027 159.6277)" font-family="Noto Sans" font-size="16px">Pingxifu</text>
+		<text id="en_Yuzhilu_1_" transform="matrix(1 0 0 1 1113.0256 159.6277)" font-family="Noto Sans" font-size="16px">Yuzhilu</text>
+		<text id="en_Zhuxinzhuang_1_" transform="matrix(1 0 0 1 897.4919 177.738)" font-family="Noto Sans" font-size="16px">Zhuxinzhuang</text>
+	</g>
+	<g id="en_M7">
+		<text id="en_Jiaohuachang_2_" transform="matrix(1 0 0 1 2073.7908 1586.8113)" font-family="Noto Sans" font-size="16px">Jiaohuachang</text>
+		<text id="en_Shuanghe_1_" transform="matrix(1 0 0 1 2029.8445 1562.9744)" font-family="Noto Sans" font-size="16px">Shuanghe</text>
+		<text id="en_Fatou_2_" transform="matrix(1 0 0 1 1971.9041 1600.2898)" font-family="Noto Sans" font-size="16px">Fatou</text>
+		<text id="en_HVSC_2_" transform="matrix(1 0 0 1 1980.7566 1521.4119)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Happy Vally</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Scenic Area</tspan></text>
+		<text id="en_Nanlouzizhuang_1_" transform="matrix(1 0 0 1 1980.7566 1485.1345)" font-family="Noto Sans" font-size="16px">Nanlouzizhuang</text>
+		<text id="en_Huagong_1_" transform="matrix(1 0 0 1 1980.4646 1437.1062)" font-family="Noto Sans" font-size="16px">Huagong</text>
+		<text id="en_Baiziwan_2_" transform="matrix(1 0 0 1 1943.8269 1383.0017)" font-family="Noto Sans" font-size="16px">Baiziwan</text>
+		<text id="en_Dajiaoting_1_" transform="matrix(1 0 0 1 1855.53 1383.0017)" font-family="Noto Sans" font-size="16px">Dajiaoting</text>
+		<text id="en_Jiulongshan_2_" transform="matrix(1 0 0 1 1746.3879 1387.8499)" font-family="Noto Sans" font-size="16px">Jiulongshan</text>
+		<text id="en_Shuangjing_2_" transform="matrix(1 0 0 1 1735.1516 1416.3669)" font-family="Noto Sans" font-size="16px">Shuangjing</text>
+		<text id="en_Guangqumenwai" transform="matrix(1 0 0 1 1529.2463 1415.3669)" font-family="Noto Sans" font-size="16px">Guangqumenwai</text>
+		<text id="en_Guangqumennei_2_" transform="matrix(1 0 0 1 1451.3337 1383.0789)" font-family="Noto Sans" font-size="16px">Guangqumennei</text>
+		<text id="en_Qiaowan" transform="matrix(1 0 0 1 1341.9885 1418.9431)" font-family="Noto Sans" font-size="16px">Qiaowan</text>
+		<text id="en_Zhushikou" transform="matrix(1 0 0 1 1308.2366 1388.0789)" font-family="Noto Sans" font-size="16px">Zhushikou</text>
+		<text id="en_Hufangqiao" transform="matrix(1 0 0 1 1197.6082 1418.9431)" font-family="Noto Sans" font-size="16px">Hufangqiao</text>
+		<text id="en_Guang_x27_anmennei_1_" transform="matrix(1 0 0 1 928.8652 1421.9353)" font-family="Noto Sans" font-size="16px">Guang’anmennei</text>
+		<text id="en_Daguanying_2_" transform="matrix(1 0 0 1 869.5022 1385.7498)" font-family="Noto Sans" font-size="16px">Daguanying</text>
+		<text id="en_Wanzi_1_" transform="matrix(1 0 0 1 800.5222 1418.1804)" font-family="Noto Sans" font-size="16px">Wanzi</text>
+		<text id="en_BWRS_1_" transform="matrix(1 0 0 1 689.9143 1321.5134)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Beijing West</tspan><tspan x="36.141" y="19.2" font-family="Noto Sans" font-size="16px">Railway</tspan><tspan x="40.031" y="38.4" font-family="Noto Sans" font-size="16px">Station</tspan></text>
+	</g>
+	<g id="en_M6">
+		<text id="en_Lucheng" transform="matrix(1 0 0 1 2423.3582 1220.6306)" font-family="Noto Sans" font-size="16px">Lucheng</text>
+		<text id="en_Dongxiayuan" transform="matrix(1 0 0 1 2356.0105 1255.3943)" font-family="Noto Sans" font-size="16px">Dongxiayuan</text>
+		<text id="en_Haojiafu_1_" transform="matrix(1 0 0 1 2324.3611 1220.6306)" font-family="Noto Sans" font-size="16px">Haojiafu</text>
+		<text id="en_Beiyunhe_East" transform="matrix(1 0 0 1 2270.8699 1255.3943)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Beiyunhe</tspan><tspan x="19.543" y="19.2" font-family="Noto Sans" font-size="16px">East</tspan></text>
+		<text id="en_Beiyunhe_West" transform="matrix(1 0 0 1 2127.4353 1204.407)" font-family="Noto Sans" font-size="16px">Beiyunhe West</text>
+		<text id="en_Tongyunmen" transform="matrix(1 0 0 1 2246.6101 1178.4333)" font-family="Noto Sans" font-size="16px">Tongyunmen</text>
+		<text id="en_Tongzhou_Beiguan" transform="matrix(1 0 0 1 2225.2996 1148.2312)" font-family="Noto Sans" font-size="16px">Tongzhou Beiguan</text>
+		<text id="en_Wuzixueyuanlu" transform="matrix(1 0 0 1 2167.1775 1118.488)" font-family="Noto Sans" font-size="16px">Wuzixueyuanlu</text>
+		<text id="en_Caofang_1_" transform="matrix(1 0 0 1 2102.2048 1153.9451)" font-family="Noto Sans" font-size="16px">Caofang</text>
+		<text id="en_Changying_1_" transform="matrix(1 0 0 1 2040.5828 1118.488)" font-family="Noto Sans" font-size="16px">Changying</text>
+		<text id="en_Huangqu_1_" transform="matrix(1 0 0 1 2000.3718 1153.9451)" font-family="Noto Sans" font-size="16px">Huangqu</text>
+		<text id="en_Dalianpo_1_" transform="matrix(1 0 0 1 1953.9441 1116.7576)" font-family="Noto Sans" font-size="16px">Dalianpo</text>
+		<text id="en_Qingnianlu_1_" transform="matrix(1 0 0 1 1900.1072 1153.9451)" font-family="Noto Sans" font-size="16px">Qingnianlu</text>
+		<text id="en_Shilipu_1_" transform="matrix(1 0 0 1 1871.7244 1118.488)" font-family="Noto Sans" font-size="16px">Shilipu</text>
+		<text id="en_Jintailu_2_" transform="matrix(1 0 0 1 1784.0417 1150.8132)" font-family="Noto Sans" font-size="16px">Jintailu</text>
+		<text id="en_Hujialou" transform="matrix(1 0 0 1 1735.1511 1122.9871)" font-family="Noto Sans" font-size="16px">Hujialou</text>
+		<text id="en_Dongdaqiao_2_" transform="matrix(1 0 0 1 1564.3933 1121.988)" font-family="Noto Sans" font-size="16px">Dongdaqiao</text>
+		<text id="en_Nanluoguxiang_1_" transform="matrix(1 0 0 1 1300.4807 1045.0388)" font-family="Noto Sans" font-size="16px">Nanluoguxiang</text>
+		<text id="en_Beihai_North_1_" transform="matrix(1 0 0 1 1230.0798 1089.5798)"><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Beihai</tspan><tspan x="1.215" y="19.2" font-family="Noto Sans" font-size="16px">North</tspan></text>
+		<text id="en_Chegongzhuang_West_2_" transform="matrix(1 0 0 1 895.4802 1033.5837)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Chegongzhuang</tspan><tspan x="43.477" y="19.2" font-family="Noto Sans" font-size="16px">West</tspan></text>
+		<text id="en_Baishiqiao_South" transform="matrix(1 0 0 1 709.365 1083.5837)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Baishiqiao</tspan><tspan x="33.789" y="19.2" font-family="Noto Sans" font-size="16px">South</tspan></text>
+		<text id="en_Huayuanqiao_2_" transform="matrix(1 0 0 1 635.405 1051.7458)" font-family="Noto Sans" font-size="16px">Huayuanqiao</text>
+		<text id="en_Cishousi_1_" transform="matrix(1 0 0 1 602.7996 1085.5837)" font-family="Noto Sans" font-size="16px">Cishousi</text>
+		<text id="en_Haidian_Wuluju" transform="matrix(1 0 0 1 508.5901 1032.5837)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Haidian</tspan><tspan x="2.496" y="19.2" font-family="Noto Sans" font-size="16px">Wuluju</tspan></text>
+	</g>
+	<g id="en_M5">
+		<text id="en_Songjiazhuang" transform="matrix(1 0 0 1 1439.0076 1673.1335)" font-family="Noto Sans" font-size="16px">Songjiazhuang</text>
+		<text id="en_Liujiayao" transform="matrix(1 0 0 1 1442.075 1593.9744)" font-family="Noto Sans" font-size="16px">Liujiayao</text>
+		<text id="en_Puhuangyu" transform="matrix(1 0 0 1 1442.075 1519.4119)" font-family="Noto Sans" font-size="16px">Puhuangyu</text>
+		<text id="en_Tiantan_Dongmen" transform="matrix(1 0 0 1 1441.8972 1452.3621)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Tiantan</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Dongmen</tspan></text>
+		<text id="en_Ciqikou" transform="matrix(1 0 0 1 1438.5056 1415.3669)" font-family="Noto Sans" font-size="16px">Ciqikou</text>
+		<text id="en_Dengshikou" transform="matrix(1 0 0 1 1440.5066 1206.408)" font-family="Noto Sans" font-size="16px">Dengshikou</text>
+		<text id="en_Dongsi" transform="matrix(1 0 0 1 1438.8972 1122.9871)" font-family="Noto Sans" font-size="16px">Dongsi</text>
+		<text id="en_Zhangzizhonglu" transform="matrix(1 0 0 1 1440.8972 1075.3875)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Zhangzi-</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">zhonglu</tspan></text>
+		<text id="en_Beixinqiao" transform="matrix(1 0 0 1 1343.3435 989.9587)" font-family="Noto Sans" font-size="16px">Beixinqiao</text>
+		<text id="en_Hepingli_Beijie" transform="matrix(1 0 0 1 1358.157 844.0789)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Hepingli</tspan><tspan x="22.016" y="19.2" font-family="Noto Sans" font-size="16px">Beijie</tspan></text>
+		<text id="en_Hepingxiqiao" transform="matrix(1 0 0 1 1440.5066 791.1853)" font-family="Noto Sans" font-size="16px">Hepingxiqiao</text>
+		<text id="en_Huixinxijie_Nankou" transform="matrix(1 0 0 1 1438.1433 735.5613)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Huixinxijie</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Nankou</tspan></text>
+		<text id="en_Huixinxijie_Beikou" transform="matrix(1 0 0 1 1440.8972 654.0945)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Huixinxijie</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Beikou</tspan></text>
+		<text id="en_Datunlu_East" transform="matrix(1 0 0 1 1439.4187 593.5652)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Datunlu</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">East</tspan></text>
+		<text id="en_Beiyuanlu_North_1_" transform="matrix(1 0 0 1 1441.8972 450.866)" font-family="Noto Sans" font-size="16px">Beiyuanlu North</text>
+		<text id="en_Lishuiqiao_South_1_" transform="matrix(1 0 0 1 1346.2888 380.7019)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Lishuiqiao</tspan><tspan x="32.688" y="19.2" font-family="Noto Sans" font-size="16px">South</tspan></text>
+		<text id="en_Lishuiqiao_3_" transform="matrix(1 0 0 1 1441.8972 325.0662)" font-family="Noto Sans" font-size="16px">Lishuiqiao</text>
+		<text id="en_Tiantongyuan_South_2_" transform="matrix(1 0 0 1 1443.4744 255.1804)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Tiantongyuan</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">South</tspan></text>
+		<text id="en_Tiantongyuan_2_" transform="matrix(1 0 0 1 1444.0955 220.1824)" font-family="Noto Sans" font-size="16px">Tiantongyuan</text>
+		<text id="en_Tiantongyuan_North_2_" transform="matrix(1 0 0 1 1443.4656 160.1843)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Tiantongyuan</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">North</tspan></text>
+	</g>
+	<g id="en_DX">
+		<text id="en_Tiangongyuan_2_" transform="matrix(1 0 0 1 943.6785 2080.4998)" font-family="Noto Sans" font-size="16px">Tiangongyuan</text>
+		<text id="en_Biomedical_Base_2_" transform="matrix(1 0 0 1 928.5847 2055.1873)" font-family="Noto Sans" font-size="16px">Biomedical Base</text>
+		<text id="en_Yihezhuang_2_" transform="matrix(1 0 0 1 963.6316 2029.8748)" font-family="Noto Sans" font-size="16px">Yihezhuang</text>
+		<text id="en_HRS_2_" transform="matrix(1 0 0 1 882.8162 1991.0349)" font-family="Noto Sans" font-size="16px">Huangcun Railway Station</text>
+		<text id="en_Huangcunxidajie_2_" transform="matrix(1 0 0 1 952.3396 1965.3015)" font-family="Noto Sans" font-size="16px">Huangcunxidajie</text>
+		<text id="en_Qingyuanlu_2_" transform="matrix(1 0 0 1 991.6599 1939.5691)" font-family="Noto Sans" font-size="16px">Qingyuanlu</text>
+		<text id="en_Zaoyuan_2_" transform="matrix(1 0 0 1 1014.2224 1913.8367)" font-family="Noto Sans" font-size="16px">Zaoyuan</text>
+		<text id="en_Gaomidian_South_2_" transform="matrix(1 0 0 1 948.5427 1888.1033)" font-family="Noto Sans" font-size="16px">Gaomidian South</text>
+		<text id="en_Gaomidian_North_2_" transform="matrix(1 0 0 1 948.449 1862.3708)" font-family="Noto Sans" font-size="16px">Gaomidian North</text>
+		<text id="en_Xihongmen_2_" transform="matrix(1 0 0 1 992.2615 1836.6375)" font-family="Noto Sans" font-size="16px">Xihongmen</text>
+		<text id="en_Xingong_2_" transform="matrix(1 0 0 1 1186.1848 1768.3875)" font-family="Noto Sans" font-size="16px">Xingong</text>
+		<text id="en_Daxing_Line_2_" transform="matrix(1 0 0 1 1083.4104 2044.3865)"><tspan x="0" y="0" fill="#008996" font-family="Noto Sans" font-size="24px">Daxing</tspan><tspan x="0" y="28.8" fill="#008996" font-family="Noto Sans" font-size="24px">Line</tspan></text>
+	</g>
+	<g id="en_M4">
+		<text id="en_Gongyixiqiao_2_" transform="matrix(1 0 0 1 1186.8186 1718.0085)" font-family="Noto Sans" font-size="16px">Gongyixiqiao</text>
+		<text id="en_Jiaomen_West" transform="matrix(1 0 0 1 1107.9426 1625.697)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Jiaomen</tspan><tspan x="23.68" y="19.2" font-family="Noto Sans" font-size="16px">West</tspan></text>
+		<text id="en_Majiapu" transform="matrix(1 0 0 1 1184.1848 1598.6072)" font-family="Noto Sans" font-size="16px">Majiapu</text>
+		<text id="en_BSRS" transform="matrix(1 0 0 1 1069.2629 1546.4519)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Beijing South</tspan><tspan x="-14.344" y="19.2" font-family="Noto Sans" font-size="16px">Railway Station</tspan></text>
+		<text id="en_Taoranting" transform="matrix(1 0 0 1 1185.8186 1462.6121)" font-family="Noto Sans" font-size="16px">Taoranting</text>
+		<text id="en_Caishikou" transform="matrix(1 0 0 1 1089.4973 1387.8494)" font-family="Noto Sans" font-size="16px">Caishikou</text>
+		<text id="en_Lingjing_Hutong" transform="matrix(1 0 0 1 1186.8186 1166.365)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Lingjing</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Hutong</tspan></text>
+		<text id="en_Xisi" transform="matrix(1 0 0 1 1185.8459 1135.9138)" font-family="Noto Sans" font-size="16px">Xisi</text>
+		<text id="en_Ping_x27_anli" transform="matrix(1 0 0 1 1184.1848 1047.6882)" font-family="Noto Sans" font-size="16px">Ping’anli</text>
+		<text id="en_Xinjiekou_2_" transform="matrix(1 0 0 1 1071.4089 973.1443)" font-family="Noto Sans" font-size="16px">Xinjiekou</text>
+		<text id="en_Beijing_Zoo_1_" transform="matrix(1 0 0 1 876.009 971.1443)" font-family="Noto Sans" font-size="16px">Beijing Zoo</text>
+		<text id="en_National_Library_2_" transform="matrix(1 0 0 1 722.2854 957.8093)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">National</tspan><tspan x="11" y="19.2" font-family="Noto Sans" font-size="16px">Library</tspan></text>
+		<text id="en_Weigongcun_1_" transform="matrix(1 0 0 1 804.928 864.8884)" font-family="Noto Sans" font-size="16px">Weigongcun</text>
+		<text id="en_Renmin_University_1_" transform="matrix(1 0 0 1 803.928 820.489)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Renmin</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">University</tspan></text>
+		<text id="en_Haidianhuangzhuang_1_" transform="matrix(1 0 0 1 800.928 736.5378)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Haidian-</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">huangzhuang</tspan></text>
+		<text id="en_Zhongguancun_1_" transform="matrix(1 0 0 1 803.928 667.5417)" font-family="Noto Sans" font-size="16px">Zhongguancun</text>
+		<text id="en_EGPU_1_" transform="matrix(1 0 0 1 803.928 611.5857)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">East Gate of</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Peking University</tspan></text>
+		<text id="en_Yuanmingyuan_Park_1_" transform="matrix(1 0 0 1 706.782 528.1921)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Yuanmingyuan</tspan><tspan x="39.867" y="19.2" font-family="Noto Sans" font-size="16px">Park</tspan></text>
+		<text id="en_Xiyuan_1_" transform="matrix(1 0 0 1 685.1716 582.782)" font-family="Noto Sans" font-size="16px">Xiyuan</text>
+		<text id="en_Beigongmen_1_" transform="matrix(1 0 0 1 533.0808 585.2429)" font-family="Noto Sans" font-size="16px">Beigongmen</text>
+		<text id="en_Anheqiao_North_1_" transform="matrix(1 0 0 1 494.6633 529.8992)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Anheqiao</tspan><tspan x="27.547" y="19.2" font-family="Noto Sans" font-size="16px">North</tspan></text>
+	</g>
+	<g id="en_M2">
+		<text id="en_Chegongzhuang" transform="matrix(1 0 0 1 1052.7864 1083.5837)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Chegong-</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">zhuang</tspan></text>
+		<text id="en_Fuchengmen" transform="matrix(1 0 0 1 967.3162 1150.6863)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Fucheng-</tspan><tspan x="35.797" y="19.2" font-family="Noto Sans" font-size="16px">men</tspan></text>
+		<text id="en_Changchunjie" transform="matrix(1 0 0 1 949.4504 1304.6462)" font-family="Noto Sans" font-size="16px">Changchunjie</text>
+		<text id="en_Xuanwumen" transform="matrix(1 0 0 1 1181.6526 1334.3523)" font-family="Noto Sans" font-size="16px">Xuanwumen</text>
+		<text id="en_Hepingmen_1_" transform="matrix(1 0 0 1 1197.634 1301.7546)" font-family="Noto Sans" font-size="16px">Hepingmen</text>
+		<text id="en_Qianmen" transform="matrix(1 0 0 1 1317.4529 1334.3523)" font-family="Noto Sans" font-size="16px">Qianmen</text>
+		<text id="en_Chongwenmen" transform="matrix(1 0 0 1 1438.5066 1335.7742)" font-family="Noto Sans" font-size="16px">Chongwenmen</text>
+		<text id="en_BRS" transform="matrix(1 0 0 1 1530.408 1299.2888)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">   Beijing</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Railway Station</tspan></text>
+		<text id="en_Chaoyangmen" transform="matrix(1 0 0 1 1465.0857 1151.0701)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Chaoyang-</tspan><tspan x="46.797" y="19.2" font-family="Noto Sans" font-size="16px">men</tspan></text>
+		<text id="en_Dongsishitiao_1_" transform="matrix(1 0 0 1 1559.9431 1075.4998)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Dongsi</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Shitiao</tspan></text>
+		<text id="en_Dongzhimen" transform="matrix(1 0 0 1 1448.2498 1004.1267)" font-family="Noto Sans" font-size="16px">Dongzhimen</text>
+		<text id="en_YLT" transform="matrix(1 0 0 1 1440.8962 901.1853)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Yonghegong</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">Lama Temple</tspan></text>
+		<text id="en_Andingmen_2_" transform="matrix(1 0 0 1 1318.1067 917.2556)" font-family="Noto Sans" font-size="16px">Andingmen</text>
+		<text id="en_Guloudajie" transform="matrix(1 0 0 1 1199.0364 921.2849)" font-family="Noto Sans" font-size="16px">Guloudajie</text>
+		<text id="en_Jishuitan" transform="matrix(1 0 0 1 1171.5793 950.4138)" font-family="Noto Sans" font-size="16px">Jishuitan</text>
+		<text id="en_Xizhimen" transform="matrix(1 0 0 1 963.2537 1005.1267)" font-family="Noto Sans" font-size="16px">Xizhimen</text>
+	</g>
+	<g id="en_BT">
+		<text id="en_Tuqiao" transform="matrix(1 0 0 1 2438.1541 1512.7585)" font-family="Noto Sans" font-size="16px">Tuqiao</text>
+		<text id="en_Linheli" transform="matrix(1 0 0 1 2402.1628 1471.4841)" font-family="Noto Sans" font-size="16px">Linheli</text>
+		<text id="en_Liyuan" transform="matrix(1 0 0 1 2361.5574 1428.9705)" font-family="Noto Sans" font-size="16px">Liyuan</text>
+		<text id="en_Jiukeshu" transform="matrix(1 0 0 1 2325.7458 1391.2097)" font-family="Noto Sans" font-size="16px">Jiukeshu</text>
+		<text id="en_Guoyuan" transform="matrix(1 0 0 1 2287.1257 1350.6931)" font-family="Noto Sans" font-size="16px">Guoyuan</text>
+		<text id="en_Tongzhou_Beiyuan" transform="matrix(1 0 0 1 2157.9548 1332.0134)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Tongzhou</tspan><tspan x="14.836" y="19.2" font-family="Noto Sans" font-size="16px">Beiyuan</tspan></text>
+		<text id="en_Baliqiao" transform="matrix(1 0 0 1 2135.1072 1289.824)" font-family="Noto Sans" font-size="16px">Baliqiao</text>
+		
+			<text id="en_Guanzhuang__x28_BT_x29_" transform="matrix(1 0 0 1 2139.823 1238.2029)" font-family="Noto Sans" font-size="16px">Guanzhuang(*)</text>
+		<text id="en_Shuangqiao" transform="matrix(1 0 0 1 2036.6052 1237.9587)" font-family="Noto Sans" font-size="16px">Shuangqiao</text>
+		<text id="en_CU" transform="matrix(1 0 0 1 1970.8103 1270.408)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Communication</tspan><tspan x="22.277" y="19.2" font-family="Noto Sans" font-size="16px">University</tspan></text>
+		<text id="en_Gaobeidian" transform="matrix(1 0 0 1 1935.6189 1237.9587)" font-family="Noto Sans" font-size="16px">Gaobeidian</text>
+		
+			<text id="en_Batong_Line_2_" transform="matrix(1 0 0 1 2132.7068 1423.7722)" fill="#A8353A" font-family="Noto Sans" font-size="24px">Batong Line</text>
+	</g>
+	<g id="en_M1">
+		<text id="en_Sihui_East" transform="matrix(1 0 0 1 1901.5427 1270.408)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Sihui</tspan><tspan x="2.75" y="19.2" font-family="Noto Sans" font-size="16px">East</tspan></text>
+		<text id="en_Sihui" transform="matrix(1 0 0 1 1858.2107 1233.53)" font-family="Noto Sans" font-size="16px">Sihui</text>
+		<text id="en_Dawanglu_2_" transform="matrix(1 0 0 1 1759.3533 1263.1072)" font-family="Noto Sans" font-size="16px">Dawanglu</text>
+		<text id="en_Guomao_1_" transform="matrix(1 0 0 1 1736.1511 1234.53)" font-family="Noto Sans" font-size="16px">Guomao</text>
+		<text id="en_Yong_x27_anli_2_" transform="matrix(1 0 0 1 1589.4031 1231.863)" font-family="Noto Sans" font-size="16px">Yong’anli</text>
+		<text id="en_Jianguomen_2_" transform="matrix(1 0 0 1 1559.1531 1263.4119)" font-family="Noto Sans" font-size="16px">Jianguomen</text>
+		<text id="en_Dongdan" transform="matrix(1 0 0 1 1439.1423 1263.1072)" font-family="Noto Sans" font-size="16px">Dongdan</text>
+		<text id="en_Wangfujing" transform="matrix(1 0 0 1 1312.7805 1233.7634)" font-family="Noto Sans" font-size="16px">Wangfujing</text>
+		<text id="en_Tian_x27_anmen_East" transform="matrix(1 0 0 1 1260.6672 1265.8992)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Tian’anmen</tspan><tspan x="28.059" y="19.2" font-family="Noto Sans" font-size="16px">East</tspan></text>
+		<text id="en_Tian_x27_anmen_West" transform="matrix(1 0 0 1 1196.6672 1211.1736)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Tian’anmen</tspan><tspan x="25.043" y="19.2" font-family="Noto Sans" font-size="16px">West</tspan></text>
+		<text id="en_Xidan" transform="matrix(1 0 0 1 1126.1917 1262.5945)" font-family="Noto Sans" font-size="16px">Xidan</text>
+		<text id="en_Fuxingmen_2_" transform="matrix(1 0 0 1 954.1731 1233.7634)" font-family="Noto Sans" font-size="16px">Fuxingmen</text>
+		<text id="en_Nanlinshilu_2_" transform="matrix(1 0 0 1 902.4128 1265.8992)" font-family="Noto Sans" font-size="16px">Nanlishilu</text>
+		<text id="en_Muxidi_1_" transform="matrix(1 0 0 1 807.1106 1262.5945)" font-family="Noto Sans" font-size="16px">Muxidi</text>
+		<text id="en_Military_Museum_1_" transform="matrix(1 0 0 1 728.7634 1213.3845)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Military</tspan><tspan x="-9.539" y="19.2" font-family="Noto Sans" font-size="16px">Museum</tspan></text>
+		<text id="en_Gongzhufen_2_" transform="matrix(1 0 0 1 673.7268 1262.5945)" font-family="Noto Sans" font-size="16px">Gongzhufen</text>
+		<text id="en_Wanshoulu_1_" transform="matrix(1 0 0 1 571.4519 1268.324)" font-family="Noto Sans" font-size="16px">Wanshoulu</text>
+		<text id="en_Wukesong_2_" transform="matrix(1 0 0 1 518.6868 1229.9539)" font-family="Noto Sans" font-size="16px">Wukesong</text>
+		<text id="en_Yuquanlu_2_" transform="matrix(1 0 0 1 466.6614 1268.324)" font-family="Noto Sans" font-size="16px">Yuquanlu</text>
+		<text id="en_Babaoshan_2_" transform="matrix(1 0 0 1 405.5486 1231.4089)" font-family="Noto Sans" font-size="16px">Babaoshan</text>
+		<text id="en_BAP_1_" transform="matrix(1 0 0 1 369.1565 1266.074)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Bajiao</tspan><tspan x="-41.551" y="19.2" font-family="Noto Sans" font-size="16px">Amusement Park</tspan></text>
+		<text id="en_Gucheng_2_" transform="matrix(1 0 0 1 259.3152 1248.4529)" font-family="Noto Sans" font-size="16px">Gucheng</text>
+		<text id="en_Pingguoyuan_2_" transform="matrix(1 0 0 1 337.5203 1203.1638)" font-family="Noto Sans" font-size="16px">Pingguoyuan</text>
+	</g>
+	<g id="en_M13S">
+		<text id="en_Jiancaichengdonglu_1_" transform="matrix(1 0 0 1 1283.9021 323.4705)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Jiancaicheng-</tspan><tspan x="46.344" y="19.2" font-family="Noto Sans" font-size="16px">donglu</tspan></text>
+		<text id="en_QRS" transform="matrix(1 0 0 1 876.6316 401.5281)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Qinghe</tspan><tspan x="-58.781" y="19.2" font-family="Noto Sans" font-size="16px">Railway Station</tspan></text>
+		<text id="en_Qinghuadongluxikou" transform="matrix(1 0 0 1 834.0974 569.5857)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Qinghuadonglu-</tspan><tspan x="82.828" y="19.2" font-family="Noto Sans" font-size="16px">xikou</tspan></text>
+		<text id="en_Mingguangqiao_West" transform="matrix(1 0 0 1 1026.3269 907.1853)" enable-background="new    "><tspan x="0" y="0" font-family="Noto Sans" font-size="16px">Mingguangqiao</tspan><tspan x="0" y="19.2" font-family="Noto Sans" font-size="16px">West</tspan></text>
+	</g>
+	<g id="en_M6S">
+		<text id="en_Erligou_2_" transform="matrix(1 0 0 1 869.5271 1084.5837)" font-family="Noto Sans" font-size="16px">Erligou</text>
+	</g>
+</g>
+</svg>
