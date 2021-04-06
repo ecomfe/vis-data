@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" fill-rule="evenodd" xml:space="preserve">
+
+    <g stroke-width="0" fill="green">
+        <path name="a" d="M 110,0 L 110,22.5 210,22.5 210,0 Z" stroke="green" stroke-linecap="square" stroke-linejoin="miter"/>
+    </g>
+    <text
+        id="text5481"
+        y="22.5"
+        x="200"
+
+        font-family="'Open Sans'"
+        fill="#ffffff"
+        text-anchor="middle"
+        text-align="center"
+        fill-rule="evenodd"
+        line-height="125%"
+        font-weight="bold"
+        letter-spacing="-0.96"
+
+        font-size="22.5">
+        <tspan
+            y="22.5"
+            x="170"
+            id="tspan5483"
+            >P2国</tspan>
+    </text>
+
+
+    <g>
+        <path d="
+            M60,35 L60,130
+            M30,60 L90,60
+            M30,95 L90,95
+            M30,130 L90,130" stroke="grey" />
+        <text
+            text-anchor="start"
+            x="60" y="60">text-anchor1</text>
+        <text
+            text-anchor="middle"
+            x="60" y="95">text-anchor</text>
+        <text
+            text-anchor="end"
+            x="60" y="130">text-anchor</text>
+    </g>
+
+    <g font-size="20" font-family="Arial">
+        <rect
+            x="260" y="10"
+            width="100" height="20"
+            fill="green"/>
+        <path d="M260,10 L260,215
+                M230,10 L500,10
+                M230,65 L500,65
+                M230,110 L500,110
+                M230,145 L500,145
+                M230,215 L500,215
+                " stroke="grey" />
+        <text alignment-baseline="hanging"
+            x="260" y="10">A hanging 国</text>
+        <text alignment-baseline="middle"
+            x="260" y="65">A middle 国</text>
+        <text alignment-baseline="baseline"
+            x="260" y="110">A baseline 国</text>
+        <text alignment-baseline="before-edge"
+            x="260" y="145">A before-edge 国</text>
+        <text alignment-baseline="after-edge"
+            x="260" y="215">A after-edge 国</text>
+    </g>
+
+    <!-- <path d="M120,20 L280,20 M120,50 L280,50 M120,80 L280,80" stroke="grey" />
+    <text dominant-baseline="auto" x="130" y="20">Auto</text>
+    <text dominant-baseline="middle" x="130" y="50">Middle</text>
+    <text dominant-baseline="hanging" x="130" y="80">Hanging</text> -->
+
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" fill-rule="evenodd" xml:space="preserve">
+
+    <g stroke-width="0">
+        <!-- <path style="transform:rotate(45deg)" name="a" d="M 110,0 L 110,22.5 210,22.5 210,0 Z" stroke="green" stroke-linecap="square" stroke-linejoin="miter"/> -->
+        <path transform="rotate(45)" name="a" d="M 110,0 L 110,22.5 210,22.5 210,0 Z" fill="green" stroke="blue" stroke-linecap="square" stroke-linejoin="miter"/>
+        <rect transform="rotate(5)" x="100" y="30" name="b" width="100" height="10" fill="blue" stroke="green" stroke-linecap="square" stroke-linejoin="miter"/>
+    </g>
+
+</svg>
